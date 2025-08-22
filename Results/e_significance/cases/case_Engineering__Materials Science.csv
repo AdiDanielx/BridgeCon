@@ -1,0 +1,21 @@
+pair,author_id,n_papers,mean_CPR,is_bridge
+"('Engineering', 'Materials Science')",https://openalex.org/A5100674628,38,4.2185,True
+"('Engineering', 'Materials Science')",https://openalex.org/A5005375790,35,2.6966571428571426,True
+"('Engineering', 'Materials Science')",https://openalex.org/A5034296749,28,2.2735714285714286,True
+"('Engineering', 'Materials Science')",https://openalex.org/A5041318946,21,6.144523809523809,True
+"('Engineering', 'Materials Science')",https://openalex.org/A5083206827,21,3.0405238095238096,True
+"('Engineering', 'Materials Science')",https://openalex.org/A5066705036,17,2.2215294117647058,True
+"('Engineering', 'Materials Science')",https://openalex.org/A5007851197,17,1.788529411764706,True
+"('Engineering', 'Materials Science')",https://openalex.org/A5002926420,15,7.961133333333334,True
+"('Engineering', 'Materials Science')",https://openalex.org/A5087291851,15,3.7098,True
+"('Engineering', 'Materials Science')",https://openalex.org/A5072246361,14,9.747857142857143,True
+"('Engineering', 'Materials Science')",https://openalex.org/A5034751387,14,1.9741428571428572,True
+"('Engineering', 'Materials Science')",https://openalex.org/A5084211576,12,12.283916666666668,True
+"('Engineering', 'Materials Science')",https://openalex.org/A5017714289,12,1.3439166666666669,True
+"('Engineering', 'Materials Science')",https://openalex.org/A5100416716,11,7.290272727272727,True
+"('Engineering', 'Materials Science')",https://openalex.org/A5038226707,11,5.353727272727273,True
+"('Engineering', 'Materials Science')",https://openalex.org/A5100352881,11,2.0039090909090906,True
+"('Engineering', 'Materials Science')",https://openalex.org/A5053615019,10,11.5314,True
+"('Engineering', 'Materials Science')",https://openalex.org/A5079626231,10,5.1687,True
+"('Engineering', 'Materials Science')",https://openalex.org/A5081694113,10,5.1462,True
+"('Engineering', 'Materials Science')",https://openalex.org/A5072114407,10,3.4448999999999996,True

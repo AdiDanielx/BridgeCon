@@ -1,0 +1,21 @@
+pair,author_id,n_papers,mean_CPR,is_bridge
+"('Computer Science', 'Medicine')",https://openalex.org/A5080050834,16,3.89,True
+"('Computer Science', 'Medicine')",https://openalex.org/A5014300312,14,2.487714285714286,True
+"('Computer Science', 'Medicine')",https://openalex.org/A5073483894,14,1.2957142857142858,True
+"('Computer Science', 'Medicine')",https://openalex.org/A5026537267,10,5.4535,True
+"('Computer Science', 'Medicine')",https://openalex.org/A5070063054,9,7.917444444444445,True
+"('Computer Science', 'Medicine')",https://openalex.org/A5060487287,9,5.350666666666667,True
+"('Computer Science', 'Medicine')",https://openalex.org/A5039111176,8,6.104875,True
+"('Computer Science', 'Medicine')",https://openalex.org/A5074056939,8,4.9045,True
+"('Computer Science', 'Medicine')",https://openalex.org/A5005447484,8,4.1419999999999995,True
+"('Computer Science', 'Medicine')",https://openalex.org/A5076075666,8,3.2945,True
+"('Computer Science', 'Medicine')",https://openalex.org/A5027292126,7,8.239428571428572,True
+"('Computer Science', 'Medicine')",https://openalex.org/A5077007622,7,6.487,True
+"('Computer Science', 'Medicine')",https://openalex.org/A5032625133,7,2.2398571428571428,True
+"('Computer Science', 'Medicine')",https://openalex.org/A5100647156,7,1.9697142857142858,True
+"('Computer Science', 'Medicine')",https://openalex.org/A5055371276,6,7.912333333333334,True
+"('Computer Science', 'Medicine')",https://openalex.org/A5045227579,6,7.039666666666666,True
+"('Computer Science', 'Medicine')",https://openalex.org/A5039535916,6,6.359666666666667,True
+"('Computer Science', 'Medicine')",https://openalex.org/A5034999945,6,5.483333333333333,True
+"('Computer Science', 'Medicine')",https://openalex.org/A5085113833,6,5.3500000000000005,True
+"('Computer Science', 'Medicine')",https://openalex.org/A5086706224,6,4.845,True

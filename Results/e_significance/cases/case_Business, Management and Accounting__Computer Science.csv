@@ -1,0 +1,21 @@
+pair,author_id,n_papers,mean_CPR,is_bridge
+"('Business, Management and Accounting', 'Computer Science')",https://openalex.org/A5064998398,5,8.189400000000001,True
+"('Business, Management and Accounting', 'Computer Science')",https://openalex.org/A5053767623,4,6.7305,True
+"('Business, Management and Accounting', 'Computer Science')",https://openalex.org/A5006428406,4,4.85475,True
+"('Business, Management and Accounting', 'Computer Science')",https://openalex.org/A5001362889,4,4.189,True
+"('Business, Management and Accounting', 'Computer Science')",https://openalex.org/A5031562237,3,3.1056666666666666,True
+"('Business, Management and Accounting', 'Computer Science')",https://openalex.org/A5070991616,3,3.1056666666666666,True
+"('Business, Management and Accounting', 'Computer Science')",https://openalex.org/A5042339320,3,2.211,True
+"('Business, Management and Accounting', 'Computer Science')",https://openalex.org/A5084415954,1,14.111,True
+"('Business, Management and Accounting', 'Computer Science')",https://openalex.org/A5042194412,1,10.829,True
+"('Business, Management and Accounting', 'Computer Science')",https://openalex.org/A5043228682,1,6.327,True
+"('Business, Management and Accounting', 'Computer Science')",https://openalex.org/A5047827833,1,4.656,True
+"('Business, Management and Accounting', 'Computer Science')",https://openalex.org/A5031318875,1,4.245,True
+"('Business, Management and Accounting', 'Computer Science')",https://openalex.org/A5063725110,1,0.775,True
+"('Business, Management and Accounting', 'Computer Science')",https://openalex.org/A5005781859,1,0.435,True
+"('Business, Management and Accounting', 'Computer Science')",https://openalex.org/A5079825006,1,0.211,True
+"('Business, Management and Accounting', 'Computer Science')",https://openalex.org/A5048622877,8,5.023625,False
+"('Business, Management and Accounting', 'Computer Science')",https://openalex.org/A5088407334,7,7.429857142857143,False
+"('Business, Management and Accounting', 'Computer Science')",https://openalex.org/A5068663980,6,6.3148333333333335,False
+"('Business, Management and Accounting', 'Computer Science')",https://openalex.org/A5072512285,5,6.497200000000001,False
+"('Business, Management and Accounting', 'Computer Science')",https://openalex.org/A5035078504,5,6.294,False

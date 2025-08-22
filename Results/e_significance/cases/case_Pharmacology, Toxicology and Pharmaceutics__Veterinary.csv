@@ -1,0 +1,21 @@
+pair,author_id,n_papers,mean_CPR,is_bridge
+"('Pharmacology, Toxicology and Pharmaceutics', 'Veterinary')",https://openalex.org/A5084925972,1,7.647,True
+"('Pharmacology, Toxicology and Pharmaceutics', 'Veterinary')",https://openalex.org/A5038911498,2,3.939,False
+"('Pharmacology, Toxicology and Pharmaceutics', 'Veterinary')",https://openalex.org/A5040264565,2,3.939,False
+"('Pharmacology, Toxicology and Pharmaceutics', 'Veterinary')",https://openalex.org/A5002769464,1,7.647,False
+"('Pharmacology, Toxicology and Pharmaceutics', 'Veterinary')",https://openalex.org/A5002895320,1,7.647,False
+"('Pharmacology, Toxicology and Pharmaceutics', 'Veterinary')",https://openalex.org/A5087996163,1,7.647,False
+"('Pharmacology, Toxicology and Pharmaceutics', 'Veterinary')",https://openalex.org/A5104037006,1,7.647,False
+"('Pharmacology, Toxicology and Pharmaceutics', 'Veterinary')",https://openalex.org/A5012678762,1,0.773,False
+"('Pharmacology, Toxicology and Pharmaceutics', 'Veterinary')",https://openalex.org/A5016161744,1,0.773,False
+"('Pharmacology, Toxicology and Pharmaceutics', 'Veterinary')",https://openalex.org/A5021199861,1,0.773,False
+"('Pharmacology, Toxicology and Pharmaceutics', 'Veterinary')",https://openalex.org/A5036765233,1,0.773,False
+"('Pharmacology, Toxicology and Pharmaceutics', 'Veterinary')",https://openalex.org/A5057328286,1,0.773,False
+"('Pharmacology, Toxicology and Pharmaceutics', 'Veterinary')",https://openalex.org/A5065707101,1,0.773,False
+"('Pharmacology, Toxicology and Pharmaceutics', 'Veterinary')",https://openalex.org/A5104259098,1,0.773,False
+"('Pharmacology, Toxicology and Pharmaceutics', 'Veterinary')",https://openalex.org/A5005889337,1,0.621,False
+"('Pharmacology, Toxicology and Pharmaceutics', 'Veterinary')",https://openalex.org/A5039135133,1,0.621,False
+"('Pharmacology, Toxicology and Pharmaceutics', 'Veterinary')",https://openalex.org/A5064063663,1,0.621,False
+"('Pharmacology, Toxicology and Pharmaceutics', 'Veterinary')",https://openalex.org/A5067612156,1,0.621,False
+"('Pharmacology, Toxicology and Pharmaceutics', 'Veterinary')",https://openalex.org/A5093271358,1,0.621,False
+"('Pharmacology, Toxicology and Pharmaceutics', 'Veterinary')",https://openalex.org/A5108926949,1,0.621,False

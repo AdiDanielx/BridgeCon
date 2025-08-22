@@ -1,0 +1,21 @@
+pair,author_id,n_papers,mean_CPR,is_bridge
+"('Energy', 'Materials Science')",https://openalex.org/A5034358731,10,4.8796,True
+"('Energy', 'Materials Science')",https://openalex.org/A5041318946,9,4.903777777777778,True
+"('Energy', 'Materials Science')",https://openalex.org/A5084211576,8,5.8705,True
+"('Energy', 'Materials Science')",https://openalex.org/A5025689163,7,3.6559999999999997,True
+"('Energy', 'Materials Science')",https://openalex.org/A5045854318,7,2.7582857142857145,True
+"('Energy', 'Materials Science')",https://openalex.org/A5083206827,7,2.09,True
+"('Energy', 'Materials Science')",https://openalex.org/A5090106395,7,1.6802857142857144,True
+"('Energy', 'Materials Science')",https://openalex.org/A5024644817,7,0.7154285714285714,True
+"('Energy', 'Materials Science')",https://openalex.org/A5100674628,6,5.746166666666667,True
+"('Energy', 'Materials Science')",https://openalex.org/A5100330523,6,4.356,True
+"('Energy', 'Materials Science')",https://openalex.org/A5087100783,6,1.3446666666666667,True
+"('Energy', 'Materials Science')",https://openalex.org/A5068962999,5,10.4184,True
+"('Energy', 'Materials Science')",https://openalex.org/A5026393313,5,3.9128,True
+"('Energy', 'Materials Science')",https://openalex.org/A5078222261,5,2.6504000000000003,True
+"('Energy', 'Materials Science')",https://openalex.org/A5061315784,5,2.3914,True
+"('Energy', 'Materials Science')",https://openalex.org/A5100653038,5,2.2086,True
+"('Energy', 'Materials Science')",https://openalex.org/A5087957929,5,2.0816,True
+"('Energy', 'Materials Science')",https://openalex.org/A5070775523,5,2.0236,True
+"('Energy', 'Materials Science')",https://openalex.org/A5091846793,5,1.9902000000000002,True
+"('Energy', 'Materials Science')",https://openalex.org/A5004588741,4,10.101,True

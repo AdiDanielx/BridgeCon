@@ -1,0 +1,21 @@
+pair,author_id,n_papers,mean_CPR,is_bridge
+"('Engineering', 'Environmental Science')",https://openalex.org/A5070378593,11,4.9555454545454545,True
+"('Engineering', 'Environmental Science')",https://openalex.org/A5035633946,9,0.8486666666666667,True
+"('Engineering', 'Environmental Science')",https://openalex.org/A5044069171,7,1.2585714285714287,True
+"('Engineering', 'Environmental Science')",https://openalex.org/A5056796852,6,14.470166666666666,True
+"('Engineering', 'Environmental Science')",https://openalex.org/A5032181031,6,6.316833333333334,True
+"('Engineering', 'Environmental Science')",https://openalex.org/A5103161124,6,3.5316666666666663,True
+"('Engineering', 'Environmental Science')",https://openalex.org/A5065266286,6,2.7086666666666663,True
+"('Engineering', 'Environmental Science')",https://openalex.org/A5002127283,6,2.4218333333333333,True
+"('Engineering', 'Environmental Science')",https://openalex.org/A5052035039,6,1.0906666666666667,True
+"('Engineering', 'Environmental Science')",https://openalex.org/A5060648323,5,12.7454,True
+"('Engineering', 'Environmental Science')",https://openalex.org/A5100381946,5,6.1322,True
+"('Engineering', 'Environmental Science')",https://openalex.org/A5028843362,5,5.0286,True
+"('Engineering', 'Environmental Science')",https://openalex.org/A5054208900,5,3.2932,True
+"('Engineering', 'Environmental Science')",https://openalex.org/A5087999701,5,2.8528000000000002,True
+"('Engineering', 'Environmental Science')",https://openalex.org/A5074827583,5,2.277,True
+"('Engineering', 'Environmental Science')",https://openalex.org/A5047783540,4,8.77325,True
+"('Engineering', 'Environmental Science')",https://openalex.org/A5036721634,4,4.266,True
+"('Engineering', 'Environmental Science')",https://openalex.org/A5011224227,4,3.23575,True
+"('Engineering', 'Environmental Science')",https://openalex.org/A5051251491,4,3.1385,True
+"('Engineering', 'Environmental Science')",https://openalex.org/A5085548566,4,2.88,True

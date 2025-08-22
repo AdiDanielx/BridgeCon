@@ -1,0 +1,21 @@
+pair,author_id,n_papers,mean_CPR,is_bridge
+"('Chemical Engineering', 'Energy')",https://openalex.org/A5087957929,9,6.158444444444445,True
+"('Chemical Engineering', 'Energy')",https://openalex.org/A5034358731,9,6.080111111111112,True
+"('Chemical Engineering', 'Energy')",https://openalex.org/A5046041134,7,2.9547142857142856,True
+"('Chemical Engineering', 'Energy')",https://openalex.org/A5061972581,6,9.905,True
+"('Chemical Engineering', 'Energy')",https://openalex.org/A5061315784,6,4.2,True
+"('Chemical Engineering', 'Energy')",https://openalex.org/A5041318946,5,1.9434,True
+"('Chemical Engineering', 'Energy')",https://openalex.org/A5030406224,5,1.7152,True
+"('Chemical Engineering', 'Energy')",https://openalex.org/A5042053197,4,4.46425,True
+"('Chemical Engineering', 'Energy')",https://openalex.org/A5012460628,4,4.28875,True
+"('Chemical Engineering', 'Energy')",https://openalex.org/A5025264570,4,4.2315000000000005,True
+"('Chemical Engineering', 'Energy')",https://openalex.org/A5081496977,4,2.881,True
+"('Chemical Engineering', 'Energy')",https://openalex.org/A5090200106,4,1.61625,True
+"('Chemical Engineering', 'Energy')",https://openalex.org/A5045854318,4,1.54175,True
+"('Chemical Engineering', 'Energy')",https://openalex.org/A5101808527,4,1.054,True
+"('Chemical Engineering', 'Energy')",https://openalex.org/A5100348455,3,10.410666666666666,True
+"('Chemical Engineering', 'Energy')",https://openalex.org/A5013704951,3,6.126666666666668,True
+"('Chemical Engineering', 'Energy')",https://openalex.org/A5008673985,3,3.9803333333333337,True
+"('Chemical Engineering', 'Energy')",https://openalex.org/A5067477881,3,3.9803333333333337,True
+"('Chemical Engineering', 'Energy')",https://openalex.org/A5079707148,3,3.9803333333333337,True
+"('Chemical Engineering', 'Energy')",https://openalex.org/A5100378882,3,3.5386666666666664,True
