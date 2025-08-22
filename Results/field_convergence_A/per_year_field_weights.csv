@@ -1,0 +1,1825 @@
+year,field_i,field_j,count_i,count_j,coocc,weight_cosine
+2018,"Economics, Econometrics and Finance",Medicine,485,5663,83,0.050082262738695794
+2018,Decision Sciences,"Economics, Econometrics and Finance",279,485,46,0.12505033535556018
+2018,Decision Sciences,Social Sciences,279,1020,63,0.11809686308369362
+2018,"Economics, Econometrics and Finance",Social Sciences,485,1020,89,0.12653744219534294
+2018,"Business, Management and Accounting",Computer Science,503,1946,48,0.04851609378251555
+2018,"Business, Management and Accounting",Decision Sciences,503,279,60,0.16016409208850735
+2018,Computer Science,Decision Sciences,1946,279,85,0.11535738593189059
+2018,Medicine,Social Sciences,5663,1020,111,0.04618485793764493
+2018,Agricultural and Biological Sciences,"Biochemistry, Genetics and Molecular Biology",869,3912,335,0.1816918704142081
+2018,Earth and Planetary Sciences,Engineering,605,3317,82,0.05788465234950805
+2018,Earth and Planetary Sciences,Physics and Astronomy,605,889,38,0.051814943485408646
+2018,Engineering,Physics and Astronomy,3317,889,227,0.13219110744510212
+2018,"Biochemistry, Genetics and Molecular Biology",Medicine,3912,5663,1798,0.38200318466051153
+2018,"Biochemistry, Genetics and Molecular Biology",Earth and Planetary Sciences,3912,605,32,0.020800456575032777
+2018,"Biochemistry, Genetics and Molecular Biology",Computer Science,3912,1946,131,0.04747887879637442
+2018,"Biochemistry, Genetics and Molecular Biology",Engineering,3912,3317,234,0.06495965333769738
+2018,Computer Science,Engineering,1946,3317,485,0.19089633252960564
+2018,Environmental Science,Medicine,1603,5663,78,0.02588836128079548
+2018,Environmental Science,Health Professions,1603,553,36,0.03823606347834286
+2018,Health Professions,Medicine,553,5663,264,0.14918256857103496
+2018,Materials Science,Physics and Astronomy,1789,889,179,0.14193744399797462
+2018,Computer Science,Physics and Astronomy,1946,889,122,0.09275504324193927
+2018,Computer Science,Social Sciences,1946,1020,114,0.08091580283416928
+2018,Physics and Astronomy,Social Sciences,889,1020,24,0.025203466345080024
+2018,Computer Science,Medicine,1946,5663,177,0.05331857913773853
+2018,Medicine,Psychology,5663,834,238,0.10951425445083021
+2018,Agricultural and Biological Sciences,Medicine,869,5663,120,0.0540938729929965
+2018,Immunology and Microbiology,Medicine,915,5663,586,0.2574327453452991
+2018,Earth and Planetary Sciences,Environmental Science,605,1603,391,0.39703821426425384
+2018,"Biochemistry, Genetics and Molecular Biology",Environmental Science,3912,1603,183,0.07307770594019014
+2018,"Business, Management and Accounting",Environmental Science,503,1603,27,0.030068586341236325
+2018,"Business, Management and Accounting",Social Sciences,503,1020,137,0.19126543333384452
+2018,Environmental Science,Social Sciences,1603,1020,91,0.0711663259253597
+2018,"Biochemistry, Genetics and Molecular Biology",Chemistry,3912,559,126,0.08520502694347439
+2018,"Biochemistry, Genetics and Molecular Biology",Decision Sciences,3912,279,7,0.006700334975895214
+2018,Chemistry,Decision Sciences,559,279,1,0.0025321649581139362
+2018,"Biochemistry, Genetics and Molecular Biology",Psychology,3912,834,20,0.011072547378932294
+2018,Neuroscience,Psychology,1300,834,207,0.19879966305830934
+2018,Neuroscience,Social Sciences,1300,1020,40,0.03473667371459371
+2018,Psychology,Social Sciences,834,1020,224,0.24286498618385222
+2018,Agricultural and Biological Sciences,Immunology and Microbiology,869,915,18,0.02018608370730024
+2018,"Biochemistry, Genetics and Molecular Biology",Immunology and Microbiology,3912,915,349,0.18446562891264284
+2018,Computer Science,Materials Science,1946,1789,38,0.020366059506111617
+2018,Health Professions,Psychology,553,834,86,0.12663473919523155
+2018,Engineering,Environmental Science,3317,1603,257,0.11145347821565102
+2018,Engineering,Medicine,3317,5663,270,0.06229708814466198
+2018,Engineering,Materials Science,3317,1789,1061,0.43554945822114366
+2018,Medicine,Neuroscience,5663,1300,547,0.20160085487153037
+2018,Engineering,Neuroscience,3317,1300,144,0.06934546747366084
+2018,"Biochemistry, Genetics and Molecular Biology",Materials Science,3912,1789,156,0.05896848973203858
+2018,Engineering,Mathematics,3317,148,13,0.01855409427046043
+2018,Earth and Planetary Sciences,Energy,605,521,1,0.0017811621225161155
+2018,Chemistry,Medicine,559,5663,31,0.017423384031406183
+2018,Chemistry,Nursing,559,195,4,0.012115372783971621
+2018,Medicine,Nursing,5663,195,135,0.12846747315333706
+2018,Energy,Engineering,521,3317,254,0.1932155694313933
+2018,Agricultural and Biological Sciences,Environmental Science,869,1603,240,0.20334551232516562
+2018,"Biochemistry, Genetics and Molecular Biology",Neuroscience,3912,1300,290,0.1285958337948932
+2018,Chemistry,Materials Science,559,1789,195,0.19499502769018986
+2018,Dentistry,Medicine,62,5663,33,0.05569225645234442
+2018,"Business, Management and Accounting",Engineering,503,3317,45,0.03483820621278681
+2018,Energy,Materials Science,521,1789,207,0.21441063030553367
+2018,Computer Science,Earth and Planetary Sciences,1946,605,34,0.03133500813247585
+2018,Decision Sciences,Health Professions,279,553,18,0.0458255660100977
+2018,Health Professions,Social Sciences,553,1020,113,0.15045817578317452
+2018,Computer Science,Health Professions,1946,553,30,0.02891926634417642
+2018,"Biochemistry, Genetics and Molecular Biology",Physics and Astronomy,3912,889,40,0.021449130314248124
+2018,Chemistry,Physics and Astronomy,559,889,34,0.04823054091130517
+2018,"Biochemistry, Genetics and Molecular Biology","Pharmacology, Toxicology and Pharmaceutics",3912,96,31,0.050585570728388825
+2018,Chemistry,"Pharmacology, Toxicology and Pharmaceutics",559,96,21,0.09065208018693326
+2018,Chemical Engineering,Materials Science,187,1789,76,0.13139765624387306
+2018,"Biochemistry, Genetics and Molecular Biology",Nursing,3912,195,39,0.04465271582641802
+2018,Computer Science,Environmental Science,1946,1603,39,0.02208139099604817
+2018,Environmental Science,Materials Science,1603,1789,76,0.044878843905861256
+2018,Environmental Science,Neuroscience,1603,1300,10,0.006927261186808698
+2018,Decision Sciences,Medicine,279,5663,18,0.014320135344375649
+2018,Decision Sciences,Psychology,279,834,18,0.03731533785918509
+2018,Immunology and Microbiology,Neuroscience,915,1300,69,0.06326548876042792
+2018,"Biochemistry, Genetics and Molecular Biology","Business, Management and Accounting",3912,503,13,0.009267443280976326
+2018,Materials Science,Neuroscience,1789,1300,26,0.017048905421639823
+2018,Environmental Science,Nursing,1603,195,17,0.0304063895061843
+2018,Arts and Humanities,Social Sciences,100,1020,42,0.13150710112788097
+2018,Materials Science,Medicine,1789,5663,88,0.027647395235020883
+2018,Earth and Planetary Sciences,Medicine,605,5663,10,0.005402552947487475
+2018,Engineering,Social Sciences,3317,1020,70,0.03805618226161219
+2018,Computer Science,Psychology,1946,834,72,0.056516863658242586
+2018,Earth and Planetary Sciences,Materials Science,605,1789,17,0.016340527183256095
+2018,Engineering,Immunology and Microbiology,3317,915,19,0.010906121161244503
+2018,Dentistry,Health Professions,62,553,16,0.08640951593987134
+2018,"Economics, Econometrics and Finance",Health Professions,485,553,54,0.10427022840524908
+2018,Chemical Engineering,Energy,187,521,79,0.2530972499807068
+2018,Decision Sciences,Environmental Science,279,1603,14,0.02093433515496035
+2018,Computer Science,Neuroscience,1946,1300,77,0.04841139876840874
+2018,Medicine,"Pharmacology, Toxicology and Pharmaceutics",5663,96,47,0.06374394836350786
+2018,Chemistry,Energy,559,521,68,0.12600394635061793
+2018,Chemistry,Engineering,559,3317,124,0.09106322892004497
+2018,Arts and Humanities,Medicine,100,5663,14,0.018603932489640707
+2018,Arts and Humanities,Psychology,100,834,35,0.12119508818627721
+2018,Chemical Engineering,Engineering,187,3317,62,0.07872236819948485
+2018,"Business, Management and Accounting","Economics, Econometrics and Finance",503,485,117,0.23688142115822966
+2018,"Biochemistry, Genetics and Molecular Biology",Mathematics,3912,148,14,0.018399149783667742
+2018,Mathematics,Medicine,148,5663,38,0.04150777540192084
+2018,"Biochemistry, Genetics and Molecular Biology",Health Professions,3912,553,31,0.021076558832948206
+2018,Health Professions,Neuroscience,553,1300,26,0.030664727249521077
+2018,"Economics, Econometrics and Finance",Mathematics,485,148,20,0.07464973470931079
+2018,Health Professions,Mathematics,553,148,3,0.010486434085937735
+2018,Computer Science,Mathematics,1946,148,33,0.06149101534529507
+2018,Engineering,Psychology,3317,834,20,0.012024699569847128
+2018,Arts and Humanities,Environmental Science,100,1603,6,0.014985957244542146
+2018,Earth and Planetary Sciences,"Economics, Econometrics and Finance",605,485,3,0.00553825180981973
+2018,"Economics, Econometrics and Finance",Environmental Science,485,1603,64,0.07258424161083274
+2018,Computer Science,"Pharmacology, Toxicology and Pharmaceutics",1946,96,5,0.011568124922267957
+2018,Decision Sciences,Engineering,279,3317,26,0.027027041629233577
+2018,Decision Sciences,Physics and Astronomy,279,889,13,0.0261029968030102
+2018,"Business, Management and Accounting",Health Professions,503,553,28,0.0530898469285165
+2018,"Business, Management and Accounting",Medicine,503,5663,25,0.014812649115939752
+2018,Chemical Engineering,Neuroscience,187,1300,5,0.010140923928935437
+2018,Immunology and Microbiology,Nursing,915,195,9,0.021306624726852998
+2018,Energy,Environmental Science,521,1603,73,0.07987984937853004
+2018,Medicine,Physics and Astronomy,5663,889,36,0.016044579499154218
+2018,Neuroscience,Physics and Astronomy,1300,889,11,0.010232226109461416
+2018,Engineering,Health Professions,3317,553,15,0.011075311698283057
+2018,Immunology and Microbiology,Social Sciences,915,1020,2,0.002070233646815121
+2018,Medicine,Veterinary,5663,26,12,0.03127312575634307
+2018,Arts and Humanities,Physics and Astronomy,100,889,1,0.003353892354527677
+2018,Chemical Engineering,Chemistry,187,559,33,0.1020674424669473
+2018,Chemical Engineering,"Pharmacology, Toxicology and Pharmaceutics",187,96,5,0.03731758962665798
+2018,Agricultural and Biological Sciences,Earth and Planetary Sciences,869,605,30,0.04137458771254811
+2018,Chemistry,Neuroscience,559,1300,19,0.02228825258707296
+2018,Chemical Engineering,Environmental Science,187,1603,12,0.021917634564163756
+2018,Earth and Planetary Sciences,Social Sciences,605,1020,16,0.02036771031313466
+2018,Agricultural and Biological Sciences,Neuroscience,869,1300,27,0.025402835728035974
+2018,Agricultural and Biological Sciences,Materials Science,869,1789,24,0.019248468611943938
+2018,Environmental Science,Psychology,1603,834,23,0.0198919816312313
+2018,Computer Science,Energy,1946,521,8,0.00794510621283572
+2018,Chemistry,Psychology,559,834,6,0.008787438956230633
+2018,Chemistry,Environmental Science,559,1603,55,0.05810185850198776
+2018,Agricultural and Biological Sciences,Social Sciences,869,1020,17,0.018056723477810774
+2018,Chemistry,Computer Science,559,1946,15,0.014381822922046655
+2018,Mathematics,Social Sciences,148,1020,13,0.03345895776613442
+2018,"Economics, Econometrics and Finance",Psychology,485,834,6,0.009434032233202919
+2018,"Biochemistry, Genetics and Molecular Biology",Chemical Engineering,3912,187,4,0.004676702726950759
+2018,Neuroscience,Nursing,1300,195,22,0.043695196726442564
+2018,Health Professions,Materials Science,553,1789,2,0.0020107693640671795
+2018,Arts and Humanities,Neuroscience,100,1300,6,0.016641005886756828
+2018,Chemical Engineering,Computer Science,187,1946,7,0.011603949197544181
+2018,"Economics, Econometrics and Finance",Energy,485,521,31,0.06166971805270962
+2018,Agricultural and Biological Sciences,"Economics, Econometrics and Finance",869,485,13,0.02002454214137533
+2018,Arts and Humanities,Computer Science,100,1946,13,0.029469443473943004
+2018,Arts and Humanities,Engineering,100,3317,3,0.0052089299728605015
+2018,Computer Science,"Economics, Econometrics and Finance",1946,485,17,0.01749873418795706
+2018,Mathematics,Physics and Astronomy,148,889,10,0.02756882533077654
+2018,Health Professions,Nursing,553,195,13,0.03958799265112922
+2018,Nursing,Social Sciences,195,1020,9,0.020180183819889327
+2018,Agricultural and Biological Sciences,Psychology,869,834,13,0.01527040089469662
+2018,Chemistry,Earth and Planetary Sciences,559,605,5,0.00859778168019924
+2018,Decision Sciences,Neuroscience,279,1300,9,0.014944064441601512
+2018,Agricultural and Biological Sciences,Engineering,869,3317,39,0.02297111008203847
+2018,Decision Sciences,Mathematics,279,148,31,0.15255580380068484
+2018,"Business, Management and Accounting",Materials Science,503,1789,1,0.0010541704477504126
+2018,Materials Science,Social Sciences,1789,1020,1,0.0007402778310280885
+2018,Decision Sciences,Materials Science,279,1789,1,0.0014154441182208618
+2018,Agricultural and Biological Sciences,Health Professions,869,553,7,0.010097772597689424
+2018,Agricultural and Biological Sciences,Nursing,869,195,22,0.053443573181846185
+2018,"Business, Management and Accounting",Nursing,503,195,1,0.0031929984064307604
+2018,"Biochemistry, Genetics and Molecular Biology",Energy,3912,521,9,0.006304116418989269
+2018,Chemical Engineering,Earth and Planetary Sciences,187,605,4,0.011892180730322301
+2018,Arts and Humanities,Health Professions,100,553,8,0.03401946044500484
+2018,Arts and Humanities,Decision Sciences,100,279,1,0.005986843400892461
+2018,Agricultural and Biological Sciences,Mathematics,869,148,9,0.025095841542228693
+2018,"Economics, Econometrics and Finance",Immunology and Microbiology,485,915,5,0.007505654826489243
+2018,"Economics, Econometrics and Finance",Materials Science,485,1789,1,0.0010735541631152236
+2018,Immunology and Microbiology,Materials Science,915,1789,6,0.004689597105784147
+2018,"Biochemistry, Genetics and Molecular Biology",Social Sciences,3912,1020,20,0.01001222237149333
+2018,Neuroscience,"Pharmacology, Toxicology and Pharmaceutics",1300,96,4,0.011322770341445925
+2018,Health Professions,Immunology and Microbiology,553,915,7,0.009840675869581993
+2018,"Economics, Econometrics and Finance",Engineering,485,3317,11,0.008672595285076894
+2018,Nursing,Psychology,195,834,5,0.012398515044387708
+2018,Environmental Science,Physics and Astronomy,1603,889,14,0.01172763373314139
+2018,Agricultural and Biological Sciences,Chemistry,869,559,9,0.012912987103064981
+2018,Arts and Humanities,Earth and Planetary Sciences,100,605,10,0.04065578140908692
+2018,Agricultural and Biological Sciences,Computer Science,869,1946,7,0.0053829052301745135
+2018,"Biochemistry, Genetics and Molecular Biology",Dentistry,3912,62,5,0.010152540637879078
+2018,Dentistry,Engineering,62,3317,5,0.011025579468139705
+2018,Chemical Engineering,Medicine,187,5663,1,0.0009717530578569322
+2018,Environmental Science,Immunology and Microbiology,1603,915,17,0.014036913160980496
+2018,Agricultural and Biological Sciences,Energy,869,521,3,0.004458538332332846
+2018,"Economics, Econometrics and Finance",Physics and Astronomy,485,889,2,0.003045848135840913
+2018,"Business, Management and Accounting",Psychology,503,834,35,0.05403821893311377
+2018,Mathematics,"Pharmacology, Toxicology and Pharmaceutics",148,96,3,0.0251683520705257
+2018,Materials Science,"Pharmacology, Toxicology and Pharmaceutics",1789,96,8,0.019304084066226024
+2018,Environmental Science,Mathematics,1603,148,4,0.008212253982680376
+2018,Agricultural and Biological Sciences,Physics and Astronomy,869,889,2,0.0022754601123771033
+2018,Engineering,"Pharmacology, Toxicology and Pharmaceutics",3317,96,3,0.005316341891415691
+2018,Physics and Astronomy,Psychology,889,834,2,0.0023227158838529435
+2018,Arts and Humanities,"Biochemistry, Genetics and Molecular Biology",100,3912,8,0.012790589587821564
+2018,Arts and Humanities,"Business, Management and Accounting",100,503,4,0.01783511848270831
+2018,Agricultural and Biological Sciences,"Pharmacology, Toxicology and Pharmaceutics",869,96,8,0.02769774944155832
+2018,Chemical Engineering,Physics and Astronomy,187,889,5,0.012263044961784531
+2018,Energy,Health Professions,521,553,1,0.0018630245279068274
+2018,Materials Science,Psychology,1789,834,2,0.001637351040258446
+2018,"Biochemistry, Genetics and Molecular Biology","Economics, Econometrics and Finance",3912,485,4,0.002903953774767086
+2018,Engineering,Nursing,3317,195,3,0.0037301922313952266
+2018,Agricultural and Biological Sciences,"Business, Management and Accounting",869,503,8,0.012100299120255363
+2018,Materials Science,Nursing,1789,195,3,0.005079240520698177
+2018,Health Professions,"Pharmacology, Toxicology and Pharmaceutics",553,96,2,0.008680241605735146
+2018,Dentistry,Immunology and Microbiology,62,915,4,0.016793978758632158
+2018,Chemistry,Immunology and Microbiology,559,915,6,0.00838947529335541
+2018,"Economics, Econometrics and Finance","Pharmacology, Toxicology and Pharmaceutics",485,96,1,0.004634399986000383
+2018,Agricultural and Biological Sciences,Chemical Engineering,869,187,3,0.007442015380142956
+2018,Environmental Science,Veterinary,1603,26,9,0.04408482024218503
+2018,Computer Science,Immunology and Microbiology,1946,915,1,0.0007494074997284337
+2018,Immunology and Microbiology,"Pharmacology, Toxicology and Pharmaceutics",915,96,2,0.006748136084824277
+2018,Mathematics,Neuroscience,148,1300,2,0.004559607525875521
+2018,Computer Science,Dentistry,1946,62,2,0.0057578816366395304
+2018,Energy,Medicine,521,5663,2,0.0011643615436692529
+2018,Agricultural and Biological Sciences,Decision Sciences,869,279,2,0.004061795048188832
+2018,Agricultural and Biological Sciences,Veterinary,869,26,6,0.039916705343693425
+2018,Computer Science,Veterinary,1946,26,2,0.00889143593658903
+2018,Mathematics,Psychology,148,834,5,0.014231678403005328
+2018,"Biochemistry, Genetics and Molecular Biology",Veterinary,3912,26,5,0.015677756225639123
+2018,Earth and Planetary Sciences,Mathematics,605,148,2,0.0066837692917618655
+2018,Earth and Planetary Sciences,Neuroscience,605,1300,1,0.00112758849626553
+2018,Dentistry,Nursing,62,195,1,0.009094667994973257
+2018,Immunology and Microbiology,Psychology,915,834,1,0.0011447388646243812
+2018,"Business, Management and Accounting",Neuroscience,503,1300,2,0.002473285930514636
+2018,Earth and Planetary Sciences,Health Professions,605,553,3,0.005186579053152017
+2018,"Business, Management and Accounting",Mathematics,503,148,2,0.0073301885425707735
+2018,Arts and Humanities,"Economics, Econometrics and Finance",100,485,1,0.004540766091864977
+2018,Energy,Physics and Astronomy,521,889,2,0.002938733837026133
+2018,Chemistry,Social Sciences,559,1020,1,0.0013243232698964265
+2018,"Business, Management and Accounting",Energy,503,521,2,0.003906853636920491
+2018,"Economics, Econometrics and Finance",Nursing,485,195,2,0.0065034202758368406
+2018,Decision Sciences,Energy,279,521,1,0.002622883715308896
+2018,Immunology and Microbiology,Veterinary,915,26,2,0.012966798874660764
+2018,Materials Science,Mathematics,1789,148,1,0.001943407936711225
+2018,Environmental Science,"Pharmacology, Toxicology and Pharmaceutics",1603,96,1,0.002549163094187031
+2018,Chemistry,Mathematics,559,148,1,0.0034766681448690044
+2018,Agricultural and Biological Sciences,Dentistry,869,62,1,0.004308184233546385
+2018,Agricultural and Biological Sciences,Arts and Humanities,869,100,1,0.00339226765776378
+2018,"Pharmacology, Toxicology and Pharmaceutics",Psychology,96,834,1,0.0035341205403331996
+2019,Decision Sciences,"Economics, Econometrics and Finance",301,451,38,0.10313642605050986
+2019,Decision Sciences,Social Sciences,301,1060,70,0.12392583664495731
+2019,"Economics, Econometrics and Finance",Social Sciences,451,1060,71,0.10268739699643524
+2019,"Economics, Econometrics and Finance",Medicine,451,5644,81,0.05076954197835741
+2019,Computer Science,Decision Sciences,2030,301,97,0.12409105232571248
+2019,Agricultural and Biological Sciences,"Biochemistry, Genetics and Molecular Biology",801,3766,307,0.17675917244061756
+2019,Environmental Science,Medicine,1752,5644,109,0.03466298382376006
+2019,Computer Science,Medicine,2030,5644,194,0.057313932573902514
+2019,Computer Science,Engineering,2030,3225,494,0.19306967720450594
+2019,"Biochemistry, Genetics and Molecular Biology",Materials Science,3766,1631,153,0.06173398221034965
+2019,Agricultural and Biological Sciences,Environmental Science,801,1752,243,0.20512706431250777
+2019,"Biochemistry, Genetics and Molecular Biology",Environmental Science,3766,1752,194,0.07552565861229098
+2019,"Economics, Econometrics and Finance",Environmental Science,451,1752,63,0.07087371985499624
+2019,"Economics, Econometrics and Finance",Neuroscience,451,1228,3,0.004031194941496645
+2019,Environmental Science,Neuroscience,1752,1228,19,0.012953507074523285
+2019,"Business, Management and Accounting",Medicine,504,5644,36,0.02134488061147953
+2019,Computer Science,Neuroscience,2030,1228,85,0.053835868464251306
+2019,"Economics, Econometrics and Finance",Health Professions,451,549,49,0.09847401306187667
+2019,Engineering,Materials Science,3225,1631,934,0.4072443204510312
+2019,"Economics, Econometrics and Finance",Energy,451,515,33,0.0684734254502871
+2019,Chemical Engineering,Energy,172,515,63,0.21167653192011057
+2019,Chemical Engineering,Engineering,172,3225,59,0.07921782763299505
+2019,Energy,Engineering,515,3225,250,0.19398651219873425
+2019,"Biochemistry, Genetics and Molecular Biology",Medicine,3766,5644,1712,0.3713386036192536
+2019,Computer Science,Environmental Science,2030,1752,55,0.029164035594810254
+2019,"Biochemistry, Genetics and Molecular Biology",Earth and Planetary Sciences,3766,645,23,0.014757331083259141
+2019,Computer Science,Physics and Astronomy,2030,839,105,0.08045634505608495
+2019,"Business, Management and Accounting",Decision Sciences,504,301,56,0.14377703093791752
+2019,"Business, Management and Accounting",Engineering,504,3225,54,0.042355872480151026
+2019,Decision Sciences,Engineering,301,3225,39,0.039583710321877644
+2019,Earth and Planetary Sciences,Physics and Astronomy,645,839,40,0.05437498543053252
+2019,"Business, Management and Accounting",Health Professions,504,549,34,0.06463644713386452
+2019,"Business, Management and Accounting",Social Sciences,504,1060,137,0.18743572323443147
+2019,Health Professions,Social Sciences,549,1060,104,0.13633087887021686
+2019,Chemistry,Physics and Astronomy,519,839,31,0.046978271610344506
+2019,Medicine,Neuroscience,5644,1228,525,0.19941903826610927
+2019,Health Professions,Medicine,549,5644,268,0.15224923504644128
+2019,"Biochemistry, Genetics and Molecular Biology",Immunology and Microbiology,3766,968,331,0.17336050255130347
+2019,Immunology and Microbiology,Medicine,968,5644,680,0.2909227817150804
+2019,"Biochemistry, Genetics and Molecular Biology",Computer Science,3766,2030,126,0.04557035043607642
+2019,"Business, Management and Accounting",Dentistry,504,60,2,0.011501092655705838
+2019,Dentistry,Medicine,60,5644,29,0.04983435827643407
+2019,Computer Science,Health Professions,2030,549,36,0.03410109382196761
+2019,Engineering,Environmental Science,3225,1752,276,0.11611201762584945
+2019,Agricultural and Biological Sciences,Computer Science,801,2030,11,0.00862637648138332
+2019,"Biochemistry, Genetics and Molecular Biology",Chemistry,3766,519,111,0.07939609487451699
+2019,Chemistry,Materials Science,519,1631,208,0.22607507079844005
+2019,Decision Sciences,Psychology,301,810,15,0.030378442357353652
+2019,"Business, Management and Accounting",Environmental Science,504,1752,29,0.030861403922760617
+2019,Earth and Planetary Sciences,Environmental Science,645,1752,437,0.4110877436587506
+2019,Computer Science,Social Sciences,2030,1060,157,0.10702831811844872
+2019,Engineering,Social Sciences,3225,1060,76,0.041105108619957136
+2019,Chemistry,Engineering,519,3225,146,0.11285071560996691
+2019,"Biochemistry, Genetics and Molecular Biology","Economics, Econometrics and Finance",3766,451,11,0.008440423857422356
+2019,Medicine,Veterinary,5644,30,12,0.02916265876414879
+2019,"Biochemistry, Genetics and Molecular Biology",Neuroscience,3766,1228,294,0.1367124257237609
+2019,"Biochemistry, Genetics and Molecular Biology",Mathematics,3766,151,12,0.015913020217894324
+2019,Environmental Science,Physics and Astronomy,1752,839,25,0.020620157460689688
+2019,Environmental Science,Social Sciences,1752,1060,94,0.06897756673494203
+2019,Physics and Astronomy,Social Sciences,839,1060,20,0.021207822633205937
+2019,Computer Science,Materials Science,2030,1631,57,0.03132563304411604
+2019,Materials Science,Physics and Astronomy,1631,839,159,0.13592181444823026
+2019,Psychology,Social Sciences,810,1060,241,0.2600887698090005
+2019,Energy,Materials Science,515,1631,187,0.20403797820614528
+2019,Engineering,Medicine,3225,5644,293,0.06867667465456406
+2019,"Business, Management and Accounting",Computer Science,504,2030,68,0.06722729321493229
+2019,"Biochemistry, Genetics and Molecular Biology",Social Sciences,3766,1060,20,0.010010065175796586
+2019,Medicine,Social Sciences,5644,1060,117,0.04783430039960223
+2019,Energy,Environmental Science,515,1752,81,0.0852735519805289
+2019,Agricultural and Biological Sciences,Medicine,801,5644,112,0.05267545092976767
+2019,Health Professions,Psychology,549,810,88,0.13196355010323055
+2019,Computer Science,Earth and Planetary Sciences,2030,645,34,0.029713310463946083
+2019,Earth and Planetary Sciences,Engineering,645,3225,85,0.05893512498836652
+2019,"Business, Management and Accounting",Nursing,504,167,6,0.020681295814775943
+2019,Health Professions,Nursing,549,167,19,0.06274934446506364
+2019,Environmental Science,Immunology and Microbiology,1752,968,24,0.018429201229076875
+2019,Earth and Planetary Sciences,Medicine,645,5644,15,0.00786172592130932
+2019,Agricultural and Biological Sciences,Nursing,801,167,20,0.05468339906572342
+2019,"Biochemistry, Genetics and Molecular Biology",Nursing,3766,167,25,0.031524021516461574
+2019,"Biochemistry, Genetics and Molecular Biology",Energy,3766,515,18,0.012924945864311706
+2019,Arts and Humanities,Medicine,102,5644,15,0.019769590365362657
+2019,Arts and Humanities,Psychology,102,810,40,0.13916095357447716
+2019,Medicine,Psychology,5644,810,189,0.08839461166077432
+2019,Dentistry,Health Professions,60,549,3,0.016529490122682067
+2019,Engineering,Neuroscience,3225,1228,117,0.05879248524676256
+2019,Health Professions,Immunology and Microbiology,549,968,11,0.0150892910070864
+2019,Decision Sciences,Health Professions,301,549,28,0.06887928199233079
+2019,Neuroscience,Psychology,1228,810,199,0.19953146147389184
+2019,"Biochemistry, Genetics and Molecular Biology",Decision Sciences,3766,301,7,0.0065746802194400706
+2019,Computer Science,Mathematics,2030,151,37,0.0668290413758363
+2019,Decision Sciences,Mathematics,301,151,25,0.117264967418498
+2019,Chemical Engineering,Computer Science,172,2030,5,0.008461702690261298
+2019,Computer Science,Energy,2030,515,9,0.00880219277981535
+2019,Environmental Science,Health Professions,1752,549,33,0.03364811322521717
+2019,Computer Science,Psychology,2030,810,68,0.053029604034849465
+2019,Environmental Science,Materials Science,1752,1631,63,0.03726889514066098
+2019,"Biochemistry, Genetics and Molecular Biology",Engineering,3766,3225,258,0.07403118287746627
+2019,"Biochemistry, Genetics and Molecular Biology",Psychology,3766,810,36,0.020611985747435134
+2019,Medicine,Nursing,5644,167,109,0.11227285327118533
+2019,"Biochemistry, Genetics and Molecular Biology",Veterinary,3766,30,5,0.014875419399767966
+2019,Computer Science,Veterinary,2030,30,5,0.02026102246182761
+2019,Chemistry,Medicine,519,5644,31,0.018112754985063147
+2019,Engineering,Physics and Astronomy,3225,839,203,0.12340995615370494
+2019,Chemistry,Environmental Science,519,1752,46,0.048239978085595096
+2019,Immunology and Microbiology,Nursing,968,167,2,0.004974324137859831
+2019,Materials Science,Medicine,1631,5644,80,0.026367533346748552
+2019,Environmental Science,Psychology,1752,810,23,0.019307154666606218
+2019,Materials Science,Neuroscience,1631,1228,26,0.01837160858643182
+2019,"Biochemistry, Genetics and Molecular Biology",Physics and Astronomy,3766,839,41,0.023065491770290398
+2019,Decision Sciences,Physics and Astronomy,301,839,13,0.025868969221013137
+2019,Agricultural and Biological Sciences,Neuroscience,801,1228,20,0.020165758144106375
+2019,Immunology and Microbiology,Neuroscience,968,1228,62,0.05686628109183884
+2019,"Economics, Econometrics and Finance",Mathematics,451,151,24,0.09196752459239992
+2019,Mathematics,Social Sciences,151,1060,18,0.04499156487230543
+2019,Chemical Engineering,Chemistry,172,519,33,0.1104500806940061
+2019,Agricultural and Biological Sciences,Immunology and Microbiology,801,968,15,0.017034811113542287
+2019,Agricultural and Biological Sciences,Earth and Planetary Sciences,801,645,23,0.03199865475402092
+2019,Mathematics,Medicine,151,5644,27,0.029247031170808416
+2019,"Business, Management and Accounting","Economics, Econometrics and Finance",504,451,104,0.21813723309398841
+2019,Decision Sciences,Medicine,301,5644,14,0.010741162460149995
+2019,Chemical Engineering,Materials Science,172,1631,86,0.162370544576804
+2019,Neuroscience,Social Sciences,1228,1060,46,0.040318625264713956
+2019,Computer Science,"Economics, Econometrics and Finance",2030,451,13,0.01358648339719306
+2019,Agricultural and Biological Sciences,Materials Science,801,1631,20,0.01749793331537799
+2019,Engineering,Immunology and Microbiology,3225,968,24,0.01358340668432051
+2019,Health Professions,Neuroscience,549,1228,15,0.018268626779498427
+2019,Chemistry,Energy,519,515,75,0.14506878374588145
+2019,Chemistry,Computer Science,519,2030,14,0.01363943365960552
+2019,Agricultural and Biological Sciences,"Business, Management and Accounting",801,504,9,0.014164817491751814
+2019,Agricultural and Biological Sciences,Engineering,801,3225,37,0.02302081032248603
+2019,"Business, Management and Accounting",Mathematics,504,151,2,0.007249803804839235
+2019,Arts and Humanities,Computer Science,102,2030,8,0.017580931514073393
+2019,Arts and Humanities,Social Sciences,102,1060,47,0.14293705813999044
+2019,"Economics, Econometrics and Finance",Immunology and Microbiology,451,968,5,0.007567354070591203
+2019,Agricultural and Biological Sciences,Social Sciences,801,1060,14,0.015193535502652424
+2019,Medicine,"Pharmacology, Toxicology and Pharmaceutics",5644,83,47,0.06866972516088936
+2019,Engineering,Mathematics,3225,151,15,0.021495023582471965
+2019,Mathematics,Physics and Astronomy,151,839,11,0.030904607417150096
+2019,Chemistry,Decision Sciences,519,301,2,0.005060146247677172
+2019,Physics and Astronomy,Psychology,839,810,6,0.007278263264238043
+2019,Dentistry,"Economics, Econometrics and Finance",60,451,1,0.006079055436800609
+2019,Arts and Humanities,Neuroscience,102,1228,9,0.025429817308704503
+2019,"Biochemistry, Genetics and Molecular Biology",Health Professions,3766,549,29,0.02016841029631192
+2019,"Economics, Econometrics and Finance",Engineering,451,3225,11,0.009120939073895537
+2019,"Biochemistry, Genetics and Molecular Biology","Pharmacology, Toxicology and Pharmaceutics",3766,83,27,0.048293041718425016
+2019,Computer Science,"Pharmacology, Toxicology and Pharmaceutics",2030,83,5,0.01218099988771795
+2019,"Economics, Econometrics and Finance",Psychology,451,810,2,0.003309018652945215
+2019,Arts and Humanities,"Biochemistry, Genetics and Molecular Biology",102,3766,8,0.012907726162544757
+2019,Decision Sciences,Earth and Planetary Sciences,301,645,2,0.004539070106737353
+2019,Engineering,Psychology,3225,810,23,0.014230510074403553
+2019,Agricultural and Biological Sciences,"Pharmacology, Toxicology and Pharmaceutics",801,83,8,0.031026635437210195
+2019,Environmental Science,Mathematics,1752,151,7,0.013609510827534173
+2019,Environmental Science,Nursing,1752,167,16,0.029579763419594847
+2019,Agricultural and Biological Sciences,Chemistry,801,519,13,0.02016245519645892
+2019,Environmental Science,Veterinary,1752,30,5,0.021809330107925476
+2019,Earth and Planetary Sciences,Materials Science,645,1631,20,0.019499485738312915
+2019,Engineering,"Pharmacology, Toxicology and Pharmaceutics",3225,83,10,0.019328408438016816
+2019,Materials Science,"Pharmacology, Toxicology and Pharmaceutics",1631,83,7,0.019025321888236992
+2019,Engineering,Health Professions,3225,549,19,0.014279157017469613
+2019,Decision Sciences,Neuroscience,301,1228,6,0.009868901609445552
+2019,Decision Sciences,Environmental Science,301,1752,12,0.016524599685232958
+2019,Chemical Engineering,Physics and Astronomy,172,839,5,0.013162088313920193
+2019,Chemical Engineering,Environmental Science,172,1752,7,0.012751661207256593
+2019,Earth and Planetary Sciences,"Economics, Econometrics and Finance",645,451,2,0.003708189052338977
+2019,"Economics, Econometrics and Finance",Physics and Astronomy,451,839,4,0.006502655403650604
+2019,Neuroscience,Physics and Astronomy,1228,839,11,0.010837086038020896
+2019,"Business, Management and Accounting",Psychology,504,810,26,0.04069261226470629
+2019,Earth and Planetary Sciences,Social Sciences,645,1060,12,0.01451270796264263
+2019,Neuroscience,Nursing,1228,167,18,0.03974798215105574
+2019,Immunology and Microbiology,Materials Science,968,1631,3,0.0023875726511276337
+2019,Medicine,Physics and Astronomy,5644,839,36,0.016543523695042344
+2019,Arts and Humanities,Earth and Planetary Sciences,102,645,4,0.015594808572584749
+2019,Dentistry,Engineering,60,3225,7,0.01591320125431101
+2019,Chemistry,"Pharmacology, Toxicology and Pharmaceutics",519,83,9,0.043363046307685865
+2019,"Biochemistry, Genetics and Molecular Biology",Dentistry,3766,60,7,0.014725913902797805
+2019,"Biochemistry, Genetics and Molecular Biology","Business, Management and Accounting",3766,504,4,0.0029033845754747236
+2019,Agricultural and Biological Sciences,Psychology,801,810,9,0.011173358719233167
+2019,"Biochemistry, Genetics and Molecular Biology",Chemical Engineering,3766,172,3,0.0037274933165172834
+2019,"Economics, Econometrics and Finance","Pharmacology, Toxicology and Pharmaceutics",451,83,3,0.015505791417851588
+2019,"Pharmacology, Toxicology and Pharmaceutics",Psychology,83,810,2,0.007713445938895784
+2019,Arts and Humanities,Health Professions,102,549,3,0.012677540207595588
+2019,"Business, Management and Accounting",Energy,504,515,1,0.001962822904794613
+2019,Decision Sciences,Energy,301,515,2,0.005079759291149557
+2019,Chemistry,Neuroscience,519,1228,8,0.010020909146511407
+2019,Earth and Planetary Sciences,Energy,645,515,4,0.006940272447911384
+2019,Agricultural and Biological Sciences,Health Professions,801,549,7,0.010555908322672097
+2019,Health Professions,Mathematics,549,151,2,0.006946329012430602
+2019,"Business, Management and Accounting",Neuroscience,504,1228,2,0.0025422341248772674
+2019,Chemistry,Nursing,519,167,3,0.010190120982759683
+2019,Earth and Planetary Sciences,Mathematics,645,151,2,0.006408577854449104
+2019,Nursing,Social Sciences,167,1060,5,0.011883895825959556
+2019,Arts and Humanities,Decision Sciences,102,301,2,0.011414231117702879
+2019,"Economics, Econometrics and Finance",Nursing,451,167,2,0.007287582581731065
+2019,Agricultural and Biological Sciences,"Economics, Econometrics and Finance",801,451,7,0.01164644851166706
+2019,Arts and Humanities,"Business, Management and Accounting",102,504,4,0.017641870800832026
+2019,Materials Science,Nursing,1631,167,3,0.0057482551703887256
+2019,Health Professions,"Pharmacology, Toxicology and Pharmaceutics",549,83,1,0.004684624459074365
+2019,Dentistry,Materials Science,60,1631,2,0.0063933339492245125
+2019,Dentistry,Immunology and Microbiology,60,968,2,0.00829882662886612
+2019,Chemical Engineering,"Pharmacology, Toxicology and Pharmaceutics",172,83,1,0.008369446361021979
+2019,Immunology and Microbiology,Social Sciences,968,1060,2,0.001974419285286677
+2019,Chemistry,Psychology,519,810,3,0.00462695276925571
+2019,Agricultural and Biological Sciences,Energy,801,515,6,0.009341817480255421
+2019,Mathematics,Psychology,151,810,3,0.008578083544249621
+2019,Neuroscience,"Pharmacology, Toxicology and Pharmaceutics",1228,83,2,0.006264577207849571
+2019,Chemical Engineering,Medicine,172,5644,2,0.002029888904378543
+2019,Computer Science,Immunology and Microbiology,2030,968,2,0.0014267382285780546
+2019,Computer Science,Dentistry,2030,60,2,0.005730682550612511
+2019,Computer Science,Nursing,2030,167,1,0.0017174881349352156
+2019,Agricultural and Biological Sciences,Veterinary,801,30,6,0.03870564998580893
+2019,Agricultural and Biological Sciences,Mathematics,801,151,2,0.00575076027380713
+2019,Materials Science,Mathematics,1631,151,2,0.004030088112341279
+2019,Materials Science,Psychology,1631,810,1,0.0008700225517118305
+2019,Nursing,Psychology,167,810,5,0.013594688450899861
+2019,Engineering,Nursing,3225,167,5,0.006813133664205037
+2019,Energy,"Pharmacology, Toxicology and Pharmaceutics",515,83,1,0.004836791195624063
+2019,Chemistry,Earth and Planetary Sciences,519,645,6,0.010370213893700646
+2019,Chemical Engineering,Earth and Planetary Sciences,172,645,2,0.006004625342957218
+2019,Earth and Planetary Sciences,Psychology,645,810,1,0.0013834951252548653
+2019,Arts and Humanities,Environmental Science,102,1752,3,0.007096661947545727
+2019,Mathematics,Neuroscience,151,1228,2,0.004644536055094506
+2019,Chemistry,Social Sciences,519,1060,1,0.0013482281431718593
+2019,Decision Sciences,Materials Science,301,1631,2,0.002854432433171767
+2019,"Business, Management and Accounting",Immunology and Microbiology,504,968,2,0.0028633672197668687
+2019,Dentistry,Environmental Science,60,1752,3,0.009252915127470037
+2019,Decision Sciences,Veterinary,301,30,1,0.010523401123547708
+2019,Earth and Planetary Sciences,Health Professions,645,549,2,0.003360964816047913
+2019,Immunology and Microbiology,Veterinary,968,30,1,0.005868156585162718
+2019,Arts and Humanities,Nursing,102,167,1,0.007661991723919375
+2019,Chemistry,Mathematics,519,151,1,0.003572134866897538
+2019,Agricultural and Biological Sciences,Arts and Humanities,801,102,3,0.010495542964487773
+2019,Agricultural and Biological Sciences,Decision Sciences,801,301,2,0.0040731508054831205
+2019,Neuroscience,Veterinary,1228,30,1,0.0052100295826319285
+2019,Agricultural and Biological Sciences,Chemical Engineering,801,172,1,0.0026941360209426883
+2019,Health Professions,Materials Science,549,1631,1,0.001056785503647153
+2019,Energy,Physics and Astronomy,515,839,4,0.006085207563480622
+2019,Immunology and Microbiology,Mathematics,968,151,1,0.0026156151711292474
+2019,Energy,Medicine,515,5644,1,0.0005865470879004597
+2019,Earth and Planetary Sciences,Nursing,645,167,1,0.003046926002590933
+2019,Dentistry,Neuroscience,60,1228,1,0.00368404724806156
+2019,Arts and Humanities,Veterinary,102,30,2,0.036155076303108706
+2019,Arts and Humanities,Materials Science,102,1631,1,0.0024517316505322483
+2019,Arts and Humanities,Physics and Astronomy,102,839,1,0.003418368939733908
+2019,Immunology and Microbiology,"Pharmacology, Toxicology and Pharmaceutics",968,83,1,0.003527956935028773
+2019,Chemistry,Immunology and Microbiology,519,968,2,0.002821685705655454
+2019,Agricultural and Biological Sciences,Dentistry,801,60,1,0.004561504595866423
+2020,"Biochemistry, Genetics and Molecular Biology","Economics, Econometrics and Finance",49,10,1,0.045175395145260526
+2020,"Biochemistry, Genetics and Molecular Biology",Medicine,49,119,23,0.30120093473783693
+2020,"Economics, Econometrics and Finance",Medicine,10,119,4,0.11595420713048632
+2020,Computer Science,Decision Sciences,28,8,1,0.06681531047810163
+2020,Computer Science,Physics and Astronomy,28,6,2,0.15430334996208
+2020,Decision Sciences,Physics and Astronomy,8,6,1,0.14433756729738562
+2020,"Biochemistry, Genetics and Molecular Biology",Chemistry,49,5,4,0.25555062599995965
+2020,Agricultural and Biological Sciences,Medicine,7,119,5,0.17323973216880328
+2020,"Business, Management and Accounting",Medicine,1,119,1,0.09166984970281274
+2020,Health Professions,Medicine,5,119,3,0.12298800925361313
+2020,"Biochemistry, Genetics and Molecular Biology",Decision Sciences,49,8,1,0.05050762722760799
+2020,Mathematics,Medicine,18,119,11,0.23767469863578847
+2020,Medicine,Psychology,119,15,6,0.1420143204993419
+2020,"Biochemistry, Genetics and Molecular Biology",Materials Science,49,5,2,0.12777531299997982
+2020,"Biochemistry, Genetics and Molecular Biology","Pharmacology, Toxicology and Pharmaceutics",49,1,1,0.14285714285712245
+2020,Materials Science,"Pharmacology, Toxicology and Pharmaceutics",5,1,1,0.4472135954997579
+2020,Environmental Science,Medicine,9,119,1,0.030556616567606106
+2020,Decision Sciences,Medicine,8,119,4,0.1296407447104287
+2020,Decision Sciences,Social Sciences,8,10,2,0.22360679774995396
+2020,Medicine,Social Sciences,119,10,2,0.05797710356524316
+2020,"Biochemistry, Genetics and Molecular Biology",Computer Science,49,28,3,0.08099238707340363
+2020,Computer Science,Medicine,28,119,4,0.06929589286752251
+2020,Immunology and Microbiology,Medicine,12,119,10,0.2646280620124745
+2020,Decision Sciences,Veterinary,8,3,3,0.6123724356956696
+2020,Medicine,Veterinary,119,3,3,0.15877683720748054
+2020,"Economics, Econometrics and Finance",Environmental Science,10,9,1,0.10540925533893486
+2020,"Economics, Econometrics and Finance",Mathematics,10,18,8,0.5962847939998994
+2020,Environmental Science,Mathematics,9,18,1,0.07856742013183245
+2020,"Economics, Econometrics and Finance",Psychology,10,15,4,0.32659863237106374
+2020,Mathematics,Psychology,18,15,4,0.24343224778005904
+2020,Neuroscience,Psychology,4,15,1,0.1290994448735639
+2020,Neuroscience,Social Sciences,4,10,2,0.3162277660167879
+2020,Psychology,Social Sciences,15,10,3,0.24494897427829782
+2020,Computer Science,Engineering,28,13,4,0.2096569673443727
+2020,Computer Science,Neuroscience,28,4,1,0.09449111825229788
+2020,Medicine,Nursing,119,2,2,0.12964074471042447
+2020,Chemistry,Computer Science,5,28,1,0.08451542547284452
+2020,"Economics, Econometrics and Finance",Social Sciences,10,10,1,0.09999999999999
+2020,Mathematics,Social Sciences,18,10,1,0.07453559924998743
+2020,Earth and Planetary Sciences,Physics and Astronomy,5,6,1,0.18257418583502202
+2020,"Biochemistry, Genetics and Molecular Biology",Immunology and Microbiology,49,12,3,0.12371791482634328
+2020,Engineering,Physics and Astronomy,13,6,1,0.11322770341444674
+2020,"Biochemistry, Genetics and Molecular Biology",Engineering,49,13,3,0.1188643277625444
+2020,Engineering,Medicine,13,119,2,0.050849283618090844
+2020,Agricultural and Biological Sciences,"Biochemistry, Genetics and Molecular Biology",7,49,1,0.053994924715600974
+2020,Decision Sciences,Health Professions,8,5,1,0.15811388300839396
+2020,Health Professions,Social Sciences,5,10,1,0.1414213562372895
+2020,Environmental Science,Materials Science,9,5,1,0.14907119849996375
+2020,Chemistry,Engineering,5,13,1,0.12403473458919308
+2020,Earth and Planetary Sciences,Environmental Science,5,9,3,0.44721359549989126
+2020,Health Professions,Psychology,5,15,1,0.11547005383791181
+2020,Chemical Engineering,Materials Science,1,5,1,0.4472135954997579
+2020,Engineering,Social Sciences,13,10,2,0.17541160386139046
+2020,Earth and Planetary Sciences,Engineering,5,13,1,0.12403473458919308
+2020,Engineering,Environmental Science,13,9,1,0.0924500327041963
+2020,Decision Sciences,Psychology,8,15,1,0.09128709291751935
+2020,Energy,Environmental Science,2,9,1,0.2357022603954603
+2020,Energy,Engineering,2,13,1,0.19611613513814558
+2020,Energy,Social Sciences,2,10,1,0.22360679774992895
+2020,Chemistry,Materials Science,5,5,2,0.39999999999992
+2020,"Biochemistry, Genetics and Molecular Biology",Social Sciences,49,10,1,0.045175395145260526
+2020,Immunology and Microbiology,Social Sciences,12,10,1,0.09128709291751935
+2020,"Biochemistry, Genetics and Molecular Biology",Neuroscience,49,4,1,0.07142857142856633
+2021,Decision Sciences,Medicine,337,8344,24,0.014312290530926768
+2021,Decision Sciences,Social Sciences,337,1679,83,0.11034122314989879
+2021,Medicine,Social Sciences,8344,1679,362,0.09671549852598395
+2021,"Biochemistry, Genetics and Molecular Biology",Medicine,4765,8344,2381,0.37760765962315057
+2021,"Biochemistry, Genetics and Molecular Biology",Immunology and Microbiology,4765,1238,453,0.18651184885470395
+2021,"Biochemistry, Genetics and Molecular Biology",Decision Sciences,4765,337,9,0.007102252470482216
+2021,"Biochemistry, Genetics and Molecular Biology",Materials Science,4765,2066,181,0.057687532599270175
+2021,"Business, Management and Accounting",Medicine,644,8344,39,0.016824203997601997
+2021,Computer Science,Medicine,2256,8344,292,0.0673017188606155
+2021,Computer Science,Engineering,2256,4093,516,0.16980844369004458
+2021,"Economics, Econometrics and Finance",Mathematics,764,473,97,0.1613594796165068
+2021,Medicine,Psychology,8344,1253,403,0.1246356729504804
+2021,Psychology,Social Sciences,1253,1679,324,0.22337991772357235
+2021,"Biochemistry, Genetics and Molecular Biology",Computer Science,4765,2256,146,0.044529913923759566
+2021,Computer Science,Materials Science,2256,2066,83,0.03844531168048461
+2021,Decision Sciences,Health Professions,337,773,17,0.033307667760848286
+2021,Health Professions,Social Sciences,773,1679,177,0.15536678226151365
+2021,Computer Science,Earth and Planetary Sciences,2256,791,24,0.017966085093111064
+2021,Computer Science,Physics and Astronomy,2256,1211,186,0.11253077891824123
+2021,Earth and Planetary Sciences,Physics and Astronomy,791,1211,63,0.06436951488689939
+2021,Agricultural and Biological Sciences,"Biochemistry, Genetics and Molecular Biology",1287,4765,414,0.16717818856339453
+2021,Medicine,Neuroscience,8344,1397,611,0.17895995400783582
+2021,Computer Science,Decision Sciences,2256,337,99,0.11354047231477832
+2021,Decision Sciences,Engineering,337,4093,46,0.039167153399056846
+2021,Computer Science,Social Sciences,2256,1679,226,0.1161217423066098
+2021,Medicine,Nursing,8344,248,159,0.11053100941504922
+2021,Agricultural and Biological Sciences,Medicine,1287,8344,292,0.08910589368191968
+2021,Engineering,Materials Science,4093,2066,1160,0.3989072764352482
+2021,Agricultural and Biological Sciences,Mathematics,1287,473,12,0.015380179434102291
+2021,Mathematics,Medicine,473,8344,240,0.12080739611425526
+2021,Health Professions,Medicine,773,8344,362,0.14253833316126388
+2021,Health Professions,Psychology,773,1253,172,0.17476850227567964
+2021,Computer Science,Mathematics,2256,473,55,0.05324300655475735
+2021,"Economics, Econometrics and Finance",Medicine,764,8344,122,0.04831989742473469
+2021,Energy,Materials Science,641,2066,243,0.21116021729792958
+2021,Arts and Humanities,Computer Science,111,2256,18,0.03597008532833755
+2021,Arts and Humanities,Psychology,111,1253,38,0.101893521442232
+2021,Computer Science,Psychology,2256,1253,87,0.05174568845936409
+2021,"Biochemistry, Genetics and Molecular Biology",Chemistry,4765,731,158,0.08465779370425944
+2021,"Biochemistry, Genetics and Molecular Biology",Nursing,4765,248,44,0.04047579462150209
+2021,Chemistry,Nursing,731,248,5,0.011743173446282323
+2021,Chemistry,Computer Science,731,2256,23,0.017910165536712496
+2021,"Biochemistry, Genetics and Molecular Biology",Engineering,4765,4093,324,0.07336563577098262
+2021,Engineering,Medicine,4093,8344,421,0.07204006164971571
+2021,"Biochemistry, Genetics and Molecular Biology",Physics and Astronomy,4765,1211,42,0.017484200025862533
+2021,"Business, Management and Accounting","Economics, Econometrics and Finance",644,764,185,0.26374371270610425
+2021,Immunology and Microbiology,Medicine,1238,8344,894,0.2781570352456236
+2021,Chemistry,Medicine,731,8344,57,0.023079639423090267
+2021,Chemistry,Earth and Planetary Sciences,731,791,21,0.027616737026908367
+2021,Chemistry,Environmental Science,731,2443,79,0.05911622172047584
+2021,Earth and Planetary Sciences,Environmental Science,791,2443,551,0.39637077298593193
+2021,Agricultural and Biological Sciences,Environmental Science,1287,2443,355,0.20020611863582846
+2021,"Biochemistry, Genetics and Molecular Biology",Environmental Science,4765,2443,236,0.06917016585064562
+2021,"Biochemistry, Genetics and Molecular Biology","Pharmacology, Toxicology and Pharmaceutics",4765,122,42,0.05508557950070181
+2021,Decision Sciences,Materials Science,337,2066,4,0.004793799682455346
+2021,Decision Sciences,Physics and Astronomy,337,1211,23,0.03600317604218051
+2021,Materials Science,Physics and Astronomy,2066,1211,219,0.13845443913333433
+2021,Agricultural and Biological Sciences,Immunology and Microbiology,1287,1238,33,0.02614353702917175
+2021,"Biochemistry, Genetics and Molecular Biology",Social Sciences,4765,1679,28,0.009899225805068544
+2021,Environmental Science,Social Sciences,2443,1679,131,0.06468211528446824
+2021,Agricultural and Biological Sciences,Nursing,1287,248,42,0.07434198903165644
+2021,Neuroscience,Psychology,1397,1253,229,0.17308592118593946
+2021,Neuroscience,Social Sciences,1397,1679,62,0.04048257586000468
+2021,Materials Science,Medicine,2066,8344,87,0.02095400032532869
+2021,"Biochemistry, Genetics and Molecular Biology",Health Professions,4765,773,30,0.015631478415851732
+2021,Chemistry,Materials Science,731,2066,260,0.211567766316612
+2021,Engineering,Physics and Astronomy,4093,1211,289,0.12980902826764476
+2021,"Business, Management and Accounting",Social Sciences,644,1679,180,0.17310285203627285
+2021,"Economics, Econometrics and Finance",Environmental Science,764,2443,96,0.07026884582709927
+2021,Mathematics,Psychology,473,1253,48,0.062349809587754046
+2021,Environmental Science,Health Professions,2443,773,79,0.05748778966072723
+2021,Chemistry,Energy,731,641,85,0.12417415761751535
+2021,"Business, Management and Accounting",Environmental Science,644,2443,42,0.033484562059997405
+2021,Environmental Science,Medicine,2443,8344,191,0.04230429734868502
+2021,"Biochemistry, Genetics and Molecular Biology",Mathematics,4765,473,16,0.010657564257187458
+2021,Chemical Engineering,Computer Science,207,2256,16,0.02341344191576331
+2021,Chemical Engineering,Energy,207,641,87,0.2388389015451003
+2021,Computer Science,Energy,2256,641,21,0.017463075527263595
+2021,Dentistry,Medicine,76,8344,53,0.0665551897187458
+2021,Energy,Engineering,641,4093,282,0.17410018044422268
+2021,Chemistry,Neuroscience,731,1397,14,0.013853871151383668
+2021,Chemistry,Psychology,731,1253,10,0.010448784591919192
+2021,Energy,Environmental Science,641,2443,118,0.09429556326289473
+2021,Environmental Science,Materials Science,2443,2066,139,0.06187111008776413
+2021,"Economics, Econometrics and Finance",Health Professions,764,773,89,0.11581200499431213
+2021,Health Professions,Mathematics,773,473,13,0.0214992363931238
+2021,"Biochemistry, Genetics and Molecular Biology",Neuroscience,4765,1397,321,0.1244157542838185
+2021,"Economics, Econometrics and Finance",Social Sciences,764,1679,135,0.11919601636290807
+2021,Computer Science,Environmental Science,2256,2443,52,0.022149914924994202
+2021,Engineering,Environmental Science,4093,2443,441,0.1394620303795954
+2021,"Economics, Econometrics and Finance",Energy,764,641,44,0.0628748529630169
+2021,Computer Science,Neuroscience,2256,1397,59,0.03323412591294311
+2021,Engineering,Neuroscience,4093,1397,162,0.06774791581035547
+2021,Chemistry,Engineering,731,4093,149,0.08614036499150501
+2021,Arts and Humanities,Neuroscience,111,1397,10,0.025394537496207938
+2021,Arts and Humanities,Social Sciences,111,1679,44,0.10192150759972328
+2021,Neuroscience,Physics and Astronomy,1397,1211,14,0.010763605230302722
+2021,Physics and Astronomy,Psychology,1211,1253,4,0.0032472250176126456
+2021,"Business, Management and Accounting",Computer Science,644,2256,76,0.06305232579954341
+2021,Mathematics,Physics and Astronomy,473,1211,30,0.03963862789148985
+2021,Chemical Engineering,Materials Science,207,2066,93,0.14221081234541866
+2021,"Biochemistry, Genetics and Molecular Biology",Earth and Planetary Sciences,4765,791,25,0.01287716659894838
+2021,Earth and Planetary Sciences,Engineering,791,4093,106,0.05891104833814321
+2021,Medicine,Physics and Astronomy,8344,1211,39,0.012268893250176055
+2021,Environmental Science,Physics and Astronomy,2443,1211,21,0.012209151693047664
+2021,Computer Science,"Economics, Econometrics and Finance",2256,764,23,0.01751909263660637
+2021,Agricultural and Biological Sciences,"Economics, Econometrics and Finance",1287,764,24,0.024203339292792857
+2021,Agricultural and Biological Sciences,Materials Science,1287,2066,53,0.03250284954813773
+2021,Medicine,"Pharmacology, Toxicology and Pharmaceutics",8344,122,59,0.05847698173441204
+2021,"Business, Management and Accounting",Engineering,644,4093,67,0.041267769553388026
+2021,Immunology and Microbiology,Social Sciences,1238,1679,12,0.00832330052269751
+2021,"Business, Management and Accounting",Decision Sciences,644,337,69,0.14811232747987177
+2021,Decision Sciences,Mathematics,337,473,23,0.057607935971196025
+2021,Engineering,Mathematics,4093,473,17,0.012217925669806869
+2021,Health Professions,Neuroscience,773,1397,8,0.007698427727221137
+2021,Physics and Astronomy,Social Sciences,1211,1679,33,0.023142832934428256
+2021,Computer Science,Health Professions,2256,773,37,0.028018341828682767
+2021,Agricultural and Biological Sciences,Social Sciences,1287,1679,22,0.014966079893891282
+2021,Immunology and Microbiology,Neuroscience,1238,1397,71,0.053988321236340085
+2021,Engineering,Social Sciences,4093,1679,95,0.03623909845506896
+2021,Mathematics,Social Sciences,473,1679,122,0.13690014629638111
+2021,Materials Science,"Pharmacology, Toxicology and Pharmaceutics",2066,122,12,0.023902106223568993
+2021,Agricultural and Biological Sciences,Earth and Planetary Sciences,1287,791,32,0.03171556576937893
+2021,Decision Sciences,"Economics, Econometrics and Finance",337,764,50,0.09853905082147264
+2021,Engineering,Nursing,4093,248,9,0.008932968379647525
+2021,Environmental Science,Nursing,2443,248,28,0.03597248643083536
+2021,"Economics, Econometrics and Finance",Engineering,764,4093,35,0.019792492668436523
+2021,Health Professions,Nursing,773,248,17,0.03882695514528557
+2021,Chemical Engineering,Engineering,207,4093,62,0.06735745109289987
+2021,Decision Sciences,Neuroscience,337,1397,10,0.014574271194399227
+2021,Decision Sciences,Psychology,337,1253,21,0.03231683410171502
+2021,Nursing,Social Sciences,248,1679,6,0.009298225231162256
+2021,Earth and Planetary Sciences,Materials Science,791,2066,24,0.018774044432321862
+2021,Agricultural and Biological Sciences,Engineering,1287,4093,67,0.029192054215277777
+2021,Engineering,Immunology and Microbiology,4093,1238,20,0.008884823421807006
+2021,Arts and Humanities,Medicine,111,8344,13,0.013508113939432308
+2021,"Biochemistry, Genetics and Molecular Biology",Psychology,4765,1253,40,0.016370162984146567
+2021,Earth and Planetary Sciences,Mathematics,791,473,2,0.0032697246661574186
+2021,Earth and Planetary Sciences,Social Sciences,791,1679,16,0.013883737467146301
+2021,Health Professions,Immunology and Microbiology,773,1238,5,0.005111165398286016
+2021,Decision Sciences,Environmental Science,337,2443,13,0.0143273763283457
+2021,Materials Science,Neuroscience,2066,1397,40,0.023544888042196767
+2021,Agricultural and Biological Sciences,Physics and Astronomy,1287,1211,3,0.0024030339674171648
+2021,"Economics, Econometrics and Finance",Psychology,764,1253,42,0.042926657729004294
+2021,Chemical Engineering,Chemistry,207,731,31,0.07969257000808407
+2021,Neuroscience,Nursing,1397,248,22,0.0373765005585807
+2021,Immunology and Microbiology,Mathematics,1238,473,6,0.007840799665739808
+2021,Environmental Science,Psychology,2443,1253,41,0.023434008749403677
+2021,Chemistry,Immunology and Microbiology,731,1238,13,0.013665462712474777
+2021,Environmental Science,Immunology and Microbiology,2443,1238,27,0.015525361036765443
+2021,Environmental Science,Neuroscience,2443,1397,18,0.009743445685974248
+2021,Chemistry,Physics and Astronomy,731,1211,36,0.03826235886961367
+2021,Agricultural and Biological Sciences,Health Professions,1287,773,11,0.011028429334210813
+2021,Medicine,Veterinary,8344,34,20,0.0375494335128669
+2021,Neuroscience,Veterinary,1397,34,2,0.009176822553120393
+2021,Agricultural and Biological Sciences,"Pharmacology, Toxicology and Pharmaceutics",1287,122,13,0.032807577507504376
+2021,Immunology and Microbiology,Materials Science,1238,2066,9,0.00562751975851101
+2021,Nursing,Psychology,248,1253,8,0.014351213027002064
+2021,"Business, Management and Accounting",Health Professions,644,773,26,0.03685026941215969
+2021,Arts and Humanities,"Biochemistry, Genetics and Molecular Biology",111,4765,10,0.013750138039188035
+2021,Chemical Engineering,Environmental Science,207,2443,12,0.016874633137268898
+2021,Chemistry,"Pharmacology, Toxicology and Pharmaceutics",731,122,20,0.06697171059454247
+2021,Computer Science,"Pharmacology, Toxicology and Pharmaceutics",2256,122,5,0.009530606556862166
+2021,Dentistry,Immunology and Microbiology,76,1238,1,0.003260114711110293
+2021,"Business, Management and Accounting",Nursing,644,248,3,0.007506759126190294
+2021,"Biochemistry, Genetics and Molecular Biology",Dentistry,4765,76,13,0.02160255421203729
+2021,Agricultural and Biological Sciences,Computer Science,1287,2256,14,0.00821616617737998
+2021,Environmental Science,"Pharmacology, Toxicology and Pharmaceutics",2443,122,2,0.0036634337899016057
+2021,Agricultural and Biological Sciences,Neuroscience,1287,1397,32,0.023865058419144356
+2021,"Biochemistry, Genetics and Molecular Biology",Veterinary,4765,34,7,0.017391103070840977
+2021,Chemical Engineering,Neuroscience,207,1397,2,0.003719175051268609
+2021,Energy,Social Sciences,641,1679,2,0.0019278606228898122
+2021,Engineering,Psychology,4093,1253,28,0.012364074792451375
+2021,Engineering,Health Professions,4093,773,27,0.01517934895103396
+2021,Immunology and Microbiology,"Pharmacology, Toxicology and Pharmaceutics",1238,122,7,0.01801182846550213
+2021,Chemical Engineering,Physics and Astronomy,207,1211,10,0.019972974875657842
+2021,"Business, Management and Accounting",Psychology,644,1253,24,0.02671731264186258
+2021,Dentistry,Engineering,76,4093,13,0.023308572889092632
+2021,Earth and Planetary Sciences,Energy,791,641,6,0.008426243281589385
+2021,"Biochemistry, Genetics and Molecular Biology",Energy,4765,641,10,0.005721890372358284
+2021,Agricultural and Biological Sciences,Psychology,1287,1253,17,0.013387026171456554
+2021,Agricultural and Biological Sciences,Energy,1287,641,6,0.006605914710373573
+2021,"Biochemistry, Genetics and Molecular Biology","Economics, Econometrics and Finance",4765,764,3,0.001572327907831715
+2021,Arts and Humanities,Earth and Planetary Sciences,111,791,11,0.037122990482505586
+2021,"Business, Management and Accounting",Energy,644,641,2,0.0031128489502274706
+2021,Arts and Humanities,Decision Sciences,111,337,7,0.03619275143592678
+2021,"Economics, Econometrics and Finance",Neuroscience,764,1397,6,0.005807729333039413
+2021,Environmental Science,Mathematics,2443,473,21,0.019535610640897014
+2021,Chemistry,Mathematics,731,473,2,0.0034012670889633926
+2021,"Economics, Econometrics and Finance",Immunology and Microbiology,764,1238,4,0.004112945830699797
+2021,Computer Science,Dentistry,2256,76,3,0.007245108787574189
+2021,Agricultural and Biological Sciences,Chemistry,1287,731,28,0.028867559485601314
+2021,Neuroscience,"Pharmacology, Toxicology and Pharmaceutics",1397,122,8,0.019378130156728172
+2021,Energy,Medicine,641,8344,6,0.0025943889618855608
+2021,Energy,Nursing,641,248,2,0.005016203426342784
+2021,Psychology,Veterinary,1253,34,4,0.019379608409414394
+2021,Arts and Humanities,Environmental Science,111,2443,5,0.009601670129171945
+2021,Energy,Physics and Astronomy,641,1211,7,0.007945055836161658
+2021,Agricultural and Biological Sciences,"Business, Management and Accounting",1287,644,19,0.020869949290328173
+2021,"Biochemistry, Genetics and Molecular Biology",Chemical Engineering,4765,207,5,0.005034465616324377
+2021,Earth and Planetary Sciences,Medicine,791,8344,8,0.0031139712424238606
+2021,Nursing,Veterinary,248,34,2,0.02178034209345137
+2021,Arts and Humanities,Chemistry,111,731,2,0.007021175323410858
+2021,Arts and Humanities,Engineering,111,4093,2,0.002967205558895568
+2021,"Pharmacology, Toxicology and Pharmaceutics",Psychology,122,1253,3,0.007673010701080593
+2021,Dentistry,Psychology,76,1253,1,0.0032405421024869338
+2021,Earth and Planetary Sciences,Health Professions,791,773,5,0.006394285387219844
+2021,Agricultural and Biological Sciences,Veterinary,1287,34,5,0.023902386925490515
+2021,"Economics, Econometrics and Finance",Physics and Astronomy,764,1211,2,0.0020792717104267614
+2021,Health Professions,Veterinary,773,34,1,0.006168375371965634
+2021,Immunology and Microbiology,Nursing,1238,248,3,0.005414209941413162
+2021,Arts and Humanities,Health Professions,111,773,2,0.006827768054458182
+2021,Computer Science,Immunology and Microbiology,2256,1238,2,0.0011967408775929035
+2021,Agricultural and Biological Sciences,Arts and Humanities,1287,111,2,0.005291505267882463
+2021,Agricultural and Biological Sciences,Decision Sciences,1287,337,2,0.0030368669959918407
+2021,Dentistry,"Pharmacology, Toxicology and Pharmaceutics",76,122,1,0.010385162309931492
+2021,Dentistry,Neuroscience,76,1397,1,0.0030689866608441833
+2021,Materials Science,Social Sciences,2066,1679,1,0.0005369198909871439
+2021,Mathematics,Neuroscience,473,1397,3,0.0036905617925805717
+2021,Decision Sciences,Energy,337,641,2,0.0043031454957070244
+2021,Chemical Engineering,Medicine,207,8344,3,0.00228270050175762
+2021,Earth and Planetary Sciences,"Economics, Econometrics and Finance",791,764,1,0.001286367558780711
+2021,Energy,"Pharmacology, Toxicology and Pharmaceutics",641,122,2,0.007151893942661963
+2021,Health Professions,Materials Science,773,2066,1,0.0007913071583028
+2021,Earth and Planetary Sciences,Psychology,791,1253,3,0.00301340481220275
+2021,Environmental Science,Veterinary,2443,34,7,0.024288284872884786
+2021,Dentistry,Health Professions,76,773,6,0.024754531267520693
+2021,"Biochemistry, Genetics and Molecular Biology","Business, Management and Accounting",4765,644,3,0.0017125642292014065
+2021,"Business, Management and Accounting",Mathematics,644,473,2,0.003623735508617246
+2021,Chemistry,Veterinary,731,34,1,0.006343104306084573
+2021,Engineering,"Pharmacology, Toxicology and Pharmaceutics",4093,122,5,0.007075696831778259
+2021,Materials Science,Nursing,2066,248,4,0.0055881620587366395
+2021,Chemical Engineering,"Pharmacology, Toxicology and Pharmaceutics",207,122,3,0.018878008037275757
+2021,Dentistry,Environmental Science,76,2443,1,0.0023207666257087766
+2021,Arts and Humanities,"Business, Management and Accounting",111,644,5,0.018701032340439742
+2021,Mathematics,"Pharmacology, Toxicology and Pharmaceutics",473,122,1,0.004162838038124993
+2021,Nursing,"Pharmacology, Toxicology and Pharmaceutics",248,122,1,0.005749025622728391
+2021,Materials Science,Psychology,2066,1253,1,0.0006215260070411361
+2021,"Economics, Econometrics and Finance","Pharmacology, Toxicology and Pharmaceutics",764,122,1,0.0032754683353785024
+2021,Earth and Planetary Sciences,Neuroscience,791,1397,2,0.0019025827325365335
+2021,Chemistry,Health Professions,731,773,1,0.001330306045037697
+2021,Agricultural and Biological Sciences,Chemical Engineering,1287,207,1,0.0019374279191837626
+2021,Decision Sciences,"Pharmacology, Toxicology and Pharmaceutics",337,122,1,0.004931796342873718
+2021,Chemical Engineering,Earth and Planetary Sciences,207,791,3,0.007413919057393945
+2021,Health Professions,"Pharmacology, Toxicology and Pharmaceutics",773,122,3,0.009769033354540217
+2021,Computer Science,Veterinary,2256,34,1,0.0036106965734488314
+2021,Immunology and Microbiology,Veterinary,1238,34,2,0.009748329827685578
+2021,"Business, Management and Accounting",Neuroscience,644,1397,1,0.0010542870287113548
+2021,Energy,Neuroscience,641,1397,1,0.0010567512791211525
+2021,"Economics, Econometrics and Finance",Nursing,764,248,1,0.0022973516691562512
+2021,Immunology and Microbiology,Psychology,1238,1253,1,0.0008029049625020397
+2021,Decision Sciences,Earth and Planetary Sciences,337,791,1,0.0019368536564567354
+2021,Dentistry,"Economics, Econometrics and Finance",76,764,1,0.004149984977081557
+2021,Agricultural and Biological Sciences,Dentistry,1287,76,1,0.003197451240319496
+2022,"Economics, Econometrics and Finance",Medicine,513,5882,90,0.05181092151864415
+2022,Engineering,Medicine,3167,5882,290,0.0671910543674801
+2022,"Economics, Econometrics and Finance",Environmental Science,513,1832,85,0.08767938773886375
+2022,Environmental Science,Medicine,1832,5882,124,0.037774301329669774
+2022,Medicine,Neuroscience,5882,1122,484,0.18840239664377142
+2022,"Biochemistry, Genetics and Molecular Biology",Medicine,3692,5882,1837,0.39419925579458315
+2022,"Biochemistry, Genetics and Molecular Biology",Nursing,3692,183,46,0.05596305837825859
+2022,Medicine,Nursing,5882,183,105,0.10120483102973857
+2022,Computer Science,Physics and Astronomy,1719,962,132,0.10264751898762184
+2022,Agricultural and Biological Sciences,"Biochemistry, Genetics and Molecular Biology",871,3692,293,0.16339083667639492
+2022,"Biochemistry, Genetics and Molecular Biology",Computer Science,3692,1719,109,0.04326709263370926
+2022,"Business, Management and Accounting","Economics, Econometrics and Finance",420,513,115,0.24775048457747265
+2022,"Economics, Econometrics and Finance",Mathematics,513,205,32,0.09867664276280663
+2022,"Economics, Econometrics and Finance",Social Sciences,513,978,90,0.12706162331256682
+2022,Mathematics,Social Sciences,205,978,39,0.0871000188716726
+2022,"Biochemistry, Genetics and Molecular Biology",Materials Science,3692,1549,156,0.06523310387404832
+2022,Computer Science,Engineering,1719,3167,426,0.18257765681140198
+2022,"Biochemistry, Genetics and Molecular Biology",Neuroscience,3692,1122,274,0.1346242473192436
+2022,"Business, Management and Accounting",Computer Science,420,1719,68,0.08002880447670568
+2022,"Business, Management and Accounting",Decision Sciences,420,231,40,0.1284190214215695
+2022,Computer Science,Decision Sciences,1719,231,70,0.1110846655291319
+2022,"Biochemistry, Genetics and Molecular Biology",Immunology and Microbiology,3692,1010,420,0.21749924679919302
+2022,Immunology and Microbiology,Medicine,1010,5882,711,0.2917066996783329
+2022,Computer Science,Medicine,1719,5882,204,0.06415488325282453
+2022,Medicine,Psychology,5882,682,210,0.10484907353617462
+2022,Medicine,Social Sciences,5882,978,193,0.08046840100895752
+2022,Psychology,Social Sciences,682,978,188,0.23019518463126964
+2022,Health Professions,Medicine,492,5882,231,0.13578972801155842
+2022,Agricultural and Biological Sciences,Immunology and Microbiology,871,1010,23,0.024522123290971663
+2022,Agricultural and Biological Sciences,Medicine,871,5882,171,0.07554826983285406
+2022,Neuroscience,Psychology,1122,682,142,0.16233035133080817
+2022,"Business, Management and Accounting",Environmental Science,420,1832,23,0.02622046903594518
+2022,"Business, Management and Accounting",Materials Science,420,1549,3,0.0037193829906622257
+2022,Environmental Science,Materials Science,1832,1549,116,0.06886040072178955
+2022,Earth and Planetary Sciences,"Economics, Econometrics and Finance",520,513,2,0.0038723057519851195
+2022,Earth and Planetary Sciences,Environmental Science,520,1832,341,0.3493735095524897
+2022,"Business, Management and Accounting",Medicine,420,5882,28,0.01781438672746838
+2022,"Business, Management and Accounting",Nursing,420,183,2,0.0072140609224967235
+2022,"Business, Management and Accounting",Health Professions,420,492,21,0.04619682176798968
+2022,Environmental Science,Health Professions,1832,492,47,0.049505399767089356
+2022,Engineering,Physics and Astronomy,3167,962,236,0.1352073918289756
+2022,Environmental Science,Neuroscience,1832,1122,19,0.013252397010059435
+2022,Immunology and Microbiology,Neuroscience,1010,1122,60,0.0563630044183416
+2022,Energy,Environmental Science,560,1832,115,0.113537961421359
+2022,"Biochemistry, Genetics and Molecular Biology",Decision Sciences,3692,231,8,0.008662697533877953
+2022,"Biochemistry, Genetics and Molecular Biology",Engineering,3692,3167,255,0.07457363325107383
+2022,"Biochemistry, Genetics and Molecular Biology",Environmental Science,3692,1832,192,0.07382571263258567
+2022,Engineering,Environmental Science,3167,1832,341,0.14156882015669844
+2022,Computer Science,Materials Science,1719,1549,63,0.03860796423322308
+2022,Computer Science,Mathematics,1719,205,30,0.050536642558574096
+2022,Computer Science,"Pharmacology, Toxicology and Pharmaceutics",1719,101,9,0.02159950926472414
+2022,Mathematics,"Pharmacology, Toxicology and Pharmaceutics",205,101,2,0.013899282381201758
+2022,Decision Sciences,Psychology,231,682,17,0.042830263286603464
+2022,Chemistry,Environmental Science,583,1832,59,0.05708933702449629
+2022,Chemistry,Materials Science,583,1549,189,0.19888490302833287
+2022,Engineering,Materials Science,3167,1549,855,0.3860258377655718
+2022,Health Professions,Social Sciences,492,978,107,0.1542523534711298
+2022,Arts and Humanities,Social Sciences,80,978,35,0.12512774658418116
+2022,Neuroscience,Physics and Astronomy,1122,962,10,0.00962533903146693
+2022,Physics and Astronomy,Psychology,962,682,4,0.00493833181968513
+2022,"Economics, Econometrics and Finance",Energy,513,560,48,0.08955473256792883
+2022,Computer Science,Neuroscience,1719,1122,76,0.054724175307402895
+2022,Computer Science,Social Sciences,1719,978,146,0.1126018407183285
+2022,Chemical Engineering,Computer Science,184,1719,12,0.02133705104566441
+2022,Chemical Engineering,Energy,184,560,82,0.25545295296810294
+2022,Computer Science,Energy,1719,560,14,0.014269083646449252
+2022,Agricultural and Biological Sciences,Environmental Science,871,1832,270,0.21374302526327182
+2022,Chemistry,Neuroscience,583,1122,13,0.016073581124035455
+2022,Chemistry,Psychology,583,682,17,0.02696015946610196
+2022,Health Professions,Mathematics,492,205,6,0.01889260168881661
+2022,Mathematics,Medicine,205,5882,77,0.07012151402330671
+2022,Physics and Astronomy,Social Sciences,962,978,10,0.01030962898686135
+2022,Chemistry,Computer Science,583,1719,20,0.019978265480605578
+2022,Chemistry,Mathematics,583,205,1,0.002892602732293946
+2022,"Economics, Econometrics and Finance",Health Professions,513,492,68,0.13535293540333657
+2022,Engineering,Immunology and Microbiology,3167,1010,25,0.013978330032980725
+2022,Mathematics,Physics and Astronomy,205,962,19,0.042784763372927886
+2022,Health Professions,Psychology,492,682,80,0.13810685905499523
+2022,Engineering,Neuroscience,3167,1122,128,0.06790308558370386
+2022,Agricultural and Biological Sciences,Chemistry,871,583,25,0.03508299437223969
+2022,Energy,Engineering,560,3167,276,0.20724832864946946
+2022,Arts and Humanities,Environmental Science,80,1832,4,0.010448459488214294
+2022,Environmental Science,Social Sciences,1832,978,89,0.06649023142984961
+2022,"Business, Management and Accounting",Social Sciences,420,978,102,0.15914980072557516
+2022,Chemical Engineering,Engineering,184,3167,62,0.08121920727191788
+2022,"Biochemistry, Genetics and Molecular Biology",Chemistry,3692,583,114,0.07770334731167418
+2022,Chemistry,Medicine,583,5882,33,0.01782038786852709
+2022,Agricultural and Biological Sciences,Engineering,871,3167,47,0.02829858685631574
+2022,Environmental Science,Physics and Astronomy,1832,962,22,0.016571904051304587
+2022,Chemistry,Decision Sciences,583,231,2,0.005449914993910719
+2022,"Biochemistry, Genetics and Molecular Biology",Social Sciences,3692,978,15,0.007893888458685749
+2022,Agricultural and Biological Sciences,Earth and Planetary Sciences,871,520,24,0.03566157273628868
+2022,Computer Science,Environmental Science,1719,1832,49,0.027611843742562227
+2022,Computer Science,Earth and Planetary Sciences,1719,520,21,0.02221159185485226
+2022,Earth and Planetary Sciences,Engineering,520,3167,74,0.05766416613849103
+2022,Decision Sciences,Mathematics,231,205,14,0.06433467556779825
+2022,Decision Sciences,Veterinary,231,28,1,0.012434118282549691
+2022,Mathematics,Veterinary,205,28,2,0.026398183867422386
+2022,Energy,Materials Science,560,1549,165,0.17715940859744755
+2022,Decision Sciences,Medicine,231,5882,22,0.018873575413826862
+2022,Decision Sciences,Social Sciences,231,978,68,0.14306503168031345
+2022,Medicine,Physics and Astronomy,5882,962,25,0.010509691368624733
+2022,Engineering,Mathematics,3167,205,14,0.017375090425087055
+2022,Earth and Planetary Sciences,Physics and Astronomy,520,962,56,0.07917695930240995
+2022,Agricultural and Biological Sciences,Nursing,871,183,30,0.07514267169915081
+2022,Engineering,"Pharmacology, Toxicology and Pharmaceutics",3167,101,6,0.010608806589541348
+2022,Materials Science,Physics and Astronomy,1549,962,149,0.12205990384970906
+2022,Decision Sciences,Health Professions,231,492,11,0.0326290285432755
+2022,Medicine,"Pharmacology, Toxicology and Pharmaceutics",5882,101,49,0.06357302588747911
+2022,Environmental Science,Nursing,1832,183,16,0.027633233265229276
+2022,Chemistry,Physics and Astronomy,583,962,31,0.04139423686406494
+2022,Chemistry,Engineering,583,3167,139,0.10229549099267582
+2022,Decision Sciences,"Economics, Econometrics and Finance",231,513,32,0.09295768633173343
+2022,Chemical Engineering,Environmental Science,184,1832,11,0.018946152949887485
+2022,Materials Science,Medicine,1549,5882,69,0.022859191809212594
+2022,"Economics, Econometrics and Finance",Neuroscience,513,1122,2,0.002636178930569793
+2022,Neuroscience,Social Sciences,1122,978,36,0.03436660607913602
+2022,"Biochemistry, Genetics and Molecular Biology",Psychology,3692,682,26,0.016385145960192023
+2022,Environmental Science,Psychology,1832,682,21,0.01878730010371106
+2022,Computer Science,Psychology,1719,682,75,0.06926775907352718
+2022,"Business, Management and Accounting",Engineering,420,3167,42,0.036416702101917324
+2022,"Economics, Econometrics and Finance",Engineering,513,3167,17,0.013337247397554744
+2022,Agricultural and Biological Sciences,Materials Science,871,1549,32,0.027549593297456355
+2022,Chemistry,"Pharmacology, Toxicology and Pharmaceutics",583,101,13,0.05357329867189206
+2022,Agricultural and Biological Sciences,"Business, Management and Accounting",871,420,11,0.018186911876390214
+2022,Decision Sciences,Physics and Astronomy,231,962,18,0.0381837852759709
+2022,Chemical Engineering,Materials Science,184,1549,82,0.15359576169993
+2022,Agricultural and Biological Sciences,Computer Science,871,1719,13,0.010624202416664823
+2022,Materials Science,Neuroscience,1549,1122,28,0.021239089450816886
+2022,Chemical Engineering,Chemistry,184,583,39,0.11907522701016873
+2022,Energy,Social Sciences,560,978,4,0.005405010605316831
+2022,Arts and Humanities,Decision Sciences,80,231,6,0.04413674147523715
+2022,"Biochemistry, Genetics and Molecular Biology","Economics, Econometrics and Finance",3692,513,6,0.004359751358262896
+2022,Chemistry,Earth and Planetary Sciences,583,520,8,0.014529612695179056
+2022,Agricultural and Biological Sciences,Health Professions,871,492,6,0.009165573015968024
+2022,"Biochemistry, Genetics and Molecular Biology",Health Professions,3692,492,15,0.011129556575602512
+2022,Computer Science,Health Professions,1719,492,30,0.03262126250043243
+2022,Engineering,Health Professions,3167,492,15,0.012016684974144667
+2022,Agricultural and Biological Sciences,Veterinary,871,28,8,0.05122735041178244
+2022,Medicine,Veterinary,5882,28,14,0.03449741155919167
+2022,Arts and Humanities,Medicine,80,5882,11,0.01603559878600437
+2022,Agricultural and Biological Sciences,Neuroscience,871,1122,19,0.019219765962153773
+2022,Chemistry,Energy,583,560,79,0.13826071562070674
+2022,Health Professions,Neuroscience,492,1122,19,0.025572584428056933
+2022,Environmental Science,Mathematics,1832,205,9,0.014685977017936148
+2022,Health Professions,Immunology and Microbiology,492,1010,4,0.00567435827080014
+2022,Dentistry,Medicine,52,5882,22,0.03977942478802168
+2022,"Biochemistry, Genetics and Molecular Biology",Mathematics,3692,205,16,0.018391290567672216
+2022,"Business, Management and Accounting",Neuroscience,420,1122,2,0.0029134590751135328
+2022,"Pharmacology, Toxicology and Pharmaceutics",Veterinary,101,28,1,0.01880443536111468
+2022,"Biochemistry, Genetics and Molecular Biology","Pharmacology, Toxicology and Pharmaceutics",3692,101,37,0.06059128891069485
+2022,"Economics, Econometrics and Finance",Psychology,513,682,7,0.011834425230191875
+2022,Mathematics,Psychology,205,682,12,0.032093133907020656
+2022,"Biochemistry, Genetics and Molecular Biology",Dentistry,3692,52,12,0.027387269035242707
+2022,Decision Sciences,Engineering,231,3167,41,0.047935121785122756
+2022,Engineering,Social Sciences,3167,978,56,0.031819589159387845
+2022,Chemistry,Nursing,583,183,5,0.015307708450539824
+2022,Nursing,Psychology,183,682,9,0.025475620880880952
+2022,Computer Science,"Economics, Econometrics and Finance",1719,513,23,0.024492392757320795
+2022,Health Professions,Nursing,492,183,11,0.03665933553260013
+2022,Environmental Science,Immunology and Microbiology,1832,1010,18,0.013232718795818724
+2022,Dentistry,Engineering,52,3167,7,0.017249334197350193
+2022,"Biochemistry, Genetics and Molecular Biology",Earth and Planetary Sciences,3692,520,13,0.009382332813010012
+2022,"Biochemistry, Genetics and Molecular Biology",Physics and Astronomy,3692,962,43,0.02281655505841893
+2022,Chemistry,Immunology and Microbiology,583,1010,4,0.005212727556050864
+2022,Arts and Humanities,Health Professions,80,492,3,0.01512145947272827
+2022,Arts and Humanities,Psychology,80,682,16,0.06849877452507387
+2022,Agricultural and Biological Sciences,Social Sciences,871,978,11,0.011918296356816313
+2022,Engineering,Nursing,3167,183,7,0.00919493076458764
+2022,Neuroscience,Nursing,1122,183,20,0.0441375296524471
+2022,Earth and Planetary Sciences,Materials Science,520,1549,17,0.01894181282059417
+2022,Engineering,Psychology,3167,682,10,0.006804305133933167
+2022,"Pharmacology, Toxicology and Pharmaceutics",Psychology,101,682,2,0.0076203886489698116
+2022,Arts and Humanities,Physics and Astronomy,80,962,1,0.0036046862545529392
+2022,Chemical Engineering,Physics and Astronomy,184,962,5,0.011884298644852033
+2022,Computer Science,Immunology and Microbiology,1719,1010,4,0.003035717583041654
+2022,Earth and Planetary Sciences,Social Sciences,520,978,11,0.015424872608287857
+2022,Agricultural and Biological Sciences,Chemical Engineering,871,184,3,0.007493820146517991
+2022,Dentistry,Immunology and Microbiology,52,1010,3,0.013090580207736015
+2022,Immunology and Microbiology,Social Sciences,1010,978,6,0.006036999447378121
+2022,Dentistry,Neuroscience,52,1122,1,0.004140014857711965
+2022,Materials Science,"Pharmacology, Toxicology and Pharmaceutics",1549,101,11,0.027810339420495128
+2022,Decision Sciences,"Pharmacology, Toxicology and Pharmaceutics",231,101,1,0.006546864058466642
+2022,Materials Science,Nursing,1549,183,3,0.005634689652634443
+2022,Environmental Science,Veterinary,1832,28,4,0.017661119983645668
+2022,Chemical Engineering,Medicine,184,5882,2,0.001922465585218268
+2022,Arts and Humanities,Earth and Planetary Sciences,80,520,7,0.03432032364918204
+2022,Arts and Humanities,"Biochemistry, Genetics and Molecular Biology",80,3692,13,0.023920349048279943
+2022,Immunology and Microbiology,Mathematics,1010,205,1,0.002197669508322324
+2022,"Business, Management and Accounting",Psychology,420,682,18,0.033632230636378345
+2022,Nursing,"Pharmacology, Toxicology and Pharmaceutics",183,101,3,0.022066579691822696
+2022,Immunology and Microbiology,Nursing,1010,183,2,0.0046520434663851
+2022,Earth and Planetary Sciences,Medicine,520,5882,6,0.003430734172950257
+2022,Agricultural and Biological Sciences,Psychology,871,682,8,0.010379793705531439
+2022,"Business, Management and Accounting",Energy,420,560,4,0.008247860988423209
+2022,"Biochemistry, Genetics and Molecular Biology","Business, Management and Accounting",3692,420,4,0.0032122142172456517
+2022,Neuroscience,"Pharmacology, Toxicology and Pharmaceutics",1122,101,5,0.014852955811007741
+2022,Agricultural and Biological Sciences,Mathematics,871,205,2,0.004733081553238961
+2022,"Business, Management and Accounting",Mathematics,420,205,4,0.013631963531819892
+2022,"Biochemistry, Genetics and Molecular Biology",Energy,3692,560,12,0.008345577343596838
+2022,"Economics, Econometrics and Finance",Physics and Astronomy,513,962,1,0.0014234879050387095
+2022,Arts and Humanities,Computer Science,80,1719,13,0.03505584342490597
+2022,Arts and Humanities,Engineering,80,3167,1,0.0019866939755082543
+2022,Energy,Medicine,560,5882,3,0.001652969084874423
+2022,Agricultural and Biological Sciences,"Economics, Econometrics and Finance",871,513,9,0.013464020040077745
+2022,Decision Sciences,Neuroscience,231,1122,4,0.007857014830935309
+2022,"Biochemistry, Genetics and Molecular Biology",Chemical Engineering,3692,184,2,0.002426555550653431
+2022,Nursing,Social Sciences,183,978,6,0.014182613837051664
+2022,Environmental Science,"Pharmacology, Toxicology and Pharmaceutics",1832,101,2,0.004649503447923078
+2022,Decision Sciences,Environmental Science,231,1832,11,0.016909235025679585
+2022,Earth and Planetary Sciences,Psychology,520,682,1,0.0016792143651949275
+2022,Immunology and Microbiology,Materials Science,1010,1549,8,0.006395928368809595
+2022,Arts and Humanities,Neuroscience,80,1122,4,0.013351146745863771
+2022,Computer Science,Veterinary,1719,28,2,0.009116183145740283
+2022,Arts and Humanities,"Business, Management and Accounting",80,420,6,0.03273268353539868
+2022,Earth and Planetary Sciences,Energy,520,560,2,0.003706246583305499
+2022,Earth and Planetary Sciences,Health Professions,520,492,2,0.003954082919253546
+2022,Neuroscience,Veterinary,1122,28,1,0.005641889238885765
+2022,Materials Science,Mathematics,1549,205,1,0.0017745872651352588
+2022,Health Professions,"Pharmacology, Toxicology and Pharmaceutics",492,101,2,0.008971948197771452
+2022,Arts and Humanities,Dentistry,80,52,1,0.015504341823650819
+2022,Dentistry,Health Professions,52,492,6,0.03751172424602642
+2022,Decision Sciences,Materials Science,231,1549,3,0.005015215001505187
+2022,Psychology,Veterinary,682,28,1,0.007236503841694417
+2022,Earth and Planetary Sciences,Immunology and Microbiology,520,1010,1,0.0013798683116522021
+2022,Agricultural and Biological Sciences,"Pharmacology, Toxicology and Pharmaceutics",871,101,3,0.01011466469516533
+2022,Chemistry,Dentistry,583,52,1,0.005743333704607929
+2022,Agricultural and Biological Sciences,Dentistry,871,52,1,0.004698824782934794
+2022,"Economics, Econometrics and Finance","Pharmacology, Toxicology and Pharmaceutics",513,101,1,0.004393196516387365
+2022,Decision Sciences,Energy,231,560,1,0.0027803533720054314
+2022,"Biochemistry, Genetics and Molecular Biology",Veterinary,3692,28,3,0.009330639125882303
+2022,Nursing,Veterinary,183,28,1,0.01396996890567762
+2022,Dentistry,Materials Science,52,1549,1,0.003523486560332694
+2022,Mathematics,Neuroscience,205,1122,2,0.004170197625656739
+2022,Chemical Engineering,Neuroscience,184,1122,1,0.0022008713654160716
+2022,Immunology and Microbiology,"Pharmacology, Toxicology and Pharmaceutics",1010,101,5,0.01565483990182361
+2022,Chemical Engineering,Earth and Planetary Sciences,184,520,1,0.0032328787506991875
+2022,"Business, Management and Accounting",Physics and Astronomy,420,962,1,0.0015732140588624508
+2022,Energy,Physics and Astronomy,560,962,2,0.0027248866811314196
+2022,Agricultural and Biological Sciences,Energy,871,560,1,0.001431847972849349
+2022,Immunology and Microbiology,Veterinary,1010,28,2,0.01189296917090681
+2022,Arts and Humanities,"Economics, Econometrics and Finance",80,513,1,0.004936240647992412
+2022,"Economics, Econometrics and Finance",Veterinary,513,28,1,0.008343769572029246
+2022,Immunology and Microbiology,Psychology,1010,682,1,0.0012048892393218998
+2022,Dentistry,Social Sciences,52,978,1,0.0044343390963756096
+2022,Agricultural and Biological Sciences,Arts and Humanities,871,80,1,0.003788313651411333
+2022,Mathematics,Nursing,205,183,1,0.005162945309119631
+2022,Materials Science,Psychology,1549,682,1,0.0009729311399653605
+2022,Earth and Planetary Sciences,Mathematics,520,205,1,0.0030628194591584344
+2022,Computer Science,Nursing,1719,183,1,0.0017829391311823877
+2022,Agricultural and Biological Sciences,Physics and Astronomy,871,962,1,0.0010924545717742218
+2023,Agricultural and Biological Sciences,"Biochemistry, Genetics and Molecular Biology",941,4017,315,0.1620185817532972
+2023,Medicine,Neuroscience,6489,1268,549,0.19139202197569788
+2023,Medicine,Psychology,6489,702,209,0.09792393184693347
+2023,Neuroscience,Psychology,1268,702,186,0.1971445435274005
+2023,Computer Science,Health Professions,1941,529,34,0.03355353745245448
+2023,Computer Science,Medicine,1941,6489,393,0.11073652620286495
+2023,Health Professions,Medicine,529,6489,292,0.15760359814157002
+2023,"Business, Management and Accounting",Computer Science,479,1941,63,0.06533712568545307
+2023,"Business, Management and Accounting",Medicine,479,6489,24,0.01361302361563105
+2023,"Business, Management and Accounting",Health Professions,479,529,25,0.04966431112879923
+2023,"Biochemistry, Genetics and Molecular Biology",Immunology and Microbiology,4017,1062,428,0.2072194872678466
+2023,"Biochemistry, Genetics and Molecular Biology",Computer Science,4017,1941,154,0.05515146297970986
+2023,"Biochemistry, Genetics and Molecular Biology",Neuroscience,4017,1268,313,0.13868637443779402
+2023,"Biochemistry, Genetics and Molecular Biology",Social Sciences,4017,1007,30,0.014916110897721923
+2023,Neuroscience,Social Sciences,1268,1007,44,0.03893841903298926
+2023,Computer Science,Physics and Astronomy,1941,1226,161,0.10436812305832278
+2023,Medicine,Physics and Astronomy,6489,1226,36,0.012763458734445905
+2023,Health Professions,Social Sciences,529,1007,90,0.12331046576020178
+2023,"Economics, Econometrics and Finance",Medicine,562,6489,81,0.0424158304148288
+2023,"Biochemistry, Genetics and Molecular Biology",Medicine,4017,6489,1884,0.36901251506408533
+2023,Computer Science,Social Sciences,1941,1007,198,0.14162427097086164
+2023,Medicine,Social Sciences,6489,1007,198,0.07745715974261244
+2023,Medicine,"Pharmacology, Toxicology and Pharmaceutics",6489,126,63,0.06967330142916169
+2023,"Economics, Econometrics and Finance",Mathematics,562,171,25,0.08064432212380263
+2023,"Economics, Econometrics and Finance",Social Sciences,562,1007,89,0.11830609336685886
+2023,Mathematics,Social Sciences,171,1007,21,0.0506065235600432
+2023,Energy,Engineering,650,3458,311,0.20743938501692397
+2023,"Biochemistry, Genetics and Molecular Biology",Decision Sciences,4017,261,5,0.004883136166774158
+2023,"Biochemistry, Genetics and Molecular Biology",Materials Science,4017,1845,210,0.07713832311053476
+2023,"Biochemistry, Genetics and Molecular Biology",Environmental Science,4017,2078,197,0.06818557994324036
+2023,Environmental Science,Immunology and Microbiology,2078,1062,32,0.021540954745537993
+2023,Computer Science,Engineering,1941,3458,392,0.1513076216680413
+2023,Immunology and Microbiology,Medicine,1062,6489,689,0.2624629926689527
+2023,"Economics, Econometrics and Finance",Environmental Science,562,2078,95,0.08790886561168214
+2023,Computer Science,Mathematics,1941,171,28,0.04860122417238914
+2023,"Biochemistry, Genetics and Molecular Biology",Engineering,4017,3458,243,0.065199289525262
+2023,"Biochemistry, Genetics and Molecular Biology",Chemistry,4017,694,155,0.09283271392996552
+2023,Chemistry,Computer Science,694,1941,25,0.0215400896127078
+2023,Energy,Medicine,650,6489,2,0.0009738328721672774
+2023,Engineering,Medicine,3458,6489,326,0.06882024565668418
+2023,Earth and Planetary Sciences,Physics and Astronomy,640,1226,66,0.07450899635839983
+2023,Engineering,Environmental Science,3458,2078,381,0.14213129387308543
+2023,Computer Science,Psychology,1941,702,79,0.0676777275165921
+2023,Agricultural and Biological Sciences,Environmental Science,941,2078,283,0.2023805874495789
+2023,Environmental Science,Health Professions,2078,529,56,0.05341182524353035
+2023,Energy,Materials Science,650,1845,218,0.1990680810587009
+2023,Engineering,Materials Science,3458,1845,980,0.38798541134411596
+2023,Computer Science,"Economics, Econometrics and Finance",1941,562,22,0.021064044099954486
+2023,Chemical Engineering,Chemistry,198,694,33,0.08902287372416971
+2023,Chemical Engineering,Energy,198,650,86,0.2397227095353653
+2023,Chemistry,Energy,694,650,84,0.1250670403243081
+2023,Environmental Science,Medicine,2078,6489,131,0.03567464309767705
+2023,Decision Sciences,"Economics, Econometrics and Finance",261,562,41,0.10705216265050074
+2023,Chemistry,Decision Sciences,694,261,2,0.004699265761840836
+2023,Earth and Planetary Sciences,Environmental Science,640,2078,433,0.3754699093018575
+2023,Immunology and Microbiology,Neuroscience,1062,1268,89,0.07669518890881274
+2023,Engineering,Physics and Astronomy,3458,1226,253,0.12287479085127741
+2023,Chemistry,Engineering,694,3458,160,0.10328274049912645
+2023,Chemistry,Materials Science,694,1845,238,0.21032894168013452
+2023,"Biochemistry, Genetics and Molecular Biology",Dentistry,4017,57,13,0.02716783360242727
+2023,"Business, Management and Accounting",Social Sciences,479,1007,106,0.15262419041788278
+2023,Decision Sciences,Psychology,261,702,12,0.028034475568745266
+2023,"Economics, Econometrics and Finance",Health Professions,562,529,47,0.08619892786370026
+2023,Engineering,Neuroscience,3458,1268,118,0.05635207159603926
+2023,Environmental Science,Psychology,2078,702,26,0.021526926118360958
+2023,Earth and Planetary Sciences,Medicine,640,6489,8,0.003925645809589232
+2023,Agricultural and Biological Sciences,Immunology and Microbiology,941,1062,33,0.03301086236086909
+2023,"Business, Management and Accounting",Decision Sciences,479,261,54,0.15272345819450286
+2023,Computer Science,Decision Sciences,1941,261,86,0.12082739988123409
+2023,Engineering,Immunology and Microbiology,3458,1062,31,0.01617658860951589
+2023,Dentistry,Medicine,57,6489,34,0.0559052510571224
+2023,Decision Sciences,Social Sciences,261,1007,46,0.08972693704161792
+2023,Materials Science,Physics and Astronomy,1845,1226,178,0.11835226723240923
+2023,"Business, Management and Accounting","Economics, Econometrics and Finance",479,562,137,0.2640490763560396
+2023,"Business, Management and Accounting",Environmental Science,479,2078,43,0.04310006521168338
+2023,Computer Science,Neuroscience,1941,1268,76,0.04844413411868695
+2023,Medicine,Nursing,6489,176,105,0.09825260597439149
+2023,Computer Science,Materials Science,1941,1845,94,0.04967260090408455
+2023,Materials Science,Neuroscience,1845,1268,38,0.024844243926435635
+2023,Psychology,Social Sciences,702,1007,180,0.21408646628992337
+2023,Energy,Environmental Science,650,2078,127,0.10927586955019379
+2023,Health Professions,Psychology,529,702,80,0.13127849671241668
+2023,Materials Science,"Pharmacology, Toxicology and Pharmaceutics",1845,126,13,0.026962483634181182
+2023,Chemistry,Medicine,694,6489,43,0.02026281751687421
+2023,Engineering,Psychology,3458,702,19,0.012194740143735146
+2023,Chemistry,Environmental Science,694,2078,61,0.05079574428066083
+2023,Chemistry,Neuroscience,694,1268,25,0.02665021068204787
+2023,Chemistry,Psychology,694,702,21,0.030086453915828773
+2023,"Economics, Econometrics and Finance",Energy,562,650,47,0.0777630026941465
+2023,"Biochemistry, Genetics and Molecular Biology","Pharmacology, Toxicology and Pharmaceutics",4017,126,37,0.05200744705746222
+2023,Computer Science,"Pharmacology, Toxicology and Pharmaceutics",1941,126,6,0.012132581298367908
+2023,"Biochemistry, Genetics and Molecular Biology",Nursing,4017,176,33,0.039247020312826245
+2023,Chemistry,Nursing,694,176,6,0.01716782118847476
+2023,Chemistry,"Pharmacology, Toxicology and Pharmaceutics",694,126,20,0.06763398671799953
+2023,Engineering,Social Sciences,3458,1007,65,0.0348326187926563
+2023,Decision Sciences,Engineering,261,3458,42,0.044209595597258
+2023,Agricultural and Biological Sciences,Medicine,941,6489,159,0.06434479558613446
+2023,"Business, Management and Accounting",Psychology,479,702,25,0.04311254849594263
+2023,Environmental Science,Materials Science,2078,1845,117,0.0597537141097883
+2023,"Economics, Econometrics and Finance",Psychology,562,702,9,0.014328667193125236
+2023,"Economics, Econometrics and Finance",Engineering,562,3458,17,0.012194619928040782
+2023,Materials Science,Medicine,1845,6489,72,0.02080872276394874
+2023,Arts and Humanities,"Business, Management and Accounting",91,479,9,0.04310762106595944
+2023,Arts and Humanities,Psychology,91,702,25,0.0989124038218534
+2023,"Biochemistry, Genetics and Molecular Biology",Earth and Planetary Sciences,4017,640,28,0.017462930616899457
+2023,Chemical Engineering,Computer Science,198,1941,18,0.029035355132814033
+2023,Computer Science,Energy,1941,650,22,0.01958633754827753
+2023,Health Professions,Neuroscience,529,1268,16,0.01953585934962538
+2023,Decision Sciences,Physics and Astronomy,261,1226,13,0.022981473113785737
+2023,Mathematics,Medicine,171,6489,58,0.05506061415655027
+2023,"Economics, Econometrics and Finance",Neuroscience,562,1268,2,0.002369202657476215
+2023,Environmental Science,Social Sciences,2078,1007,105,0.07258582079853554
+2023,Chemistry,Physics and Astronomy,694,1226,39,0.042280453481149366
+2023,"Business, Management and Accounting",Engineering,479,3458,44,0.034187900026555564
+2023,Environmental Science,Physics and Astronomy,2078,1226,25,0.015662893753158852
+2023,Earth and Planetary Sciences,Engineering,640,3458,94,0.06318665602112872
+2023,Health Professions,Nursing,529,176,13,0.04260486390772733
+2023,Agricultural and Biological Sciences,Materials Science,941,1845,49,0.037188022330253374
+2023,Chemical Engineering,Earth and Planetary Sciences,198,640,6,0.016854996561581004
+2023,Chemical Engineering,Materials Science,198,1845,87,0.14394231140311686
+2023,Earth and Planetary Sciences,Materials Science,640,1845,20,0.018405254345807743
+2023,Chemical Engineering,Engineering,198,3458,61,0.07371990135422371
+2023,Arts and Humanities,Social Sciences,91,1007,46,0.15195759107837523
+2023,Earth and Planetary Sciences,Social Sciences,640,1007,16,0.01993036536929825
+2023,Mathematics,Physics and Astronomy,171,1226,28,0.06115257388975621
+2023,Agricultural and Biological Sciences,Earth and Planetary Sciences,941,640,22,0.02834900902030932
+2023,Arts and Humanities,"Biochemistry, Genetics and Molecular Biology",91,4017,9,0.014885756049376036
+2023,Arts and Humanities,Earth and Planetary Sciences,91,640,4,0.01657483860329483
+2023,Earth and Planetary Sciences,Health Professions,640,529,5,0.008593145815674929
+2023,Computer Science,Earth and Planetary Sciences,1941,640,26,0.023327628654228265
+2023,Health Professions,Immunology and Microbiology,529,1062,5,0.006670830564480595
+2023,"Biochemistry, Genetics and Molecular Biology","Economics, Econometrics and Finance",4017,562,12,0.007986604387398056
+2023,Environmental Science,Veterinary,2078,23,4,0.018296722515756567
+2023,Chemistry,Earth and Planetary Sciences,694,640,12,0.01800576276627536
+2023,Decision Sciences,Energy,261,650,6,0.014567140814584559
+2023,Agricultural and Biological Sciences,Nursing,941,176,30,0.07371741693559294
+2023,Environmental Science,Nursing,2078,176,22,0.03637839843856186
+2023,Environmental Science,Neuroscience,2078,1268,24,0.014785255822595291
+2023,"Biochemistry, Genetics and Molecular Biology",Physics and Astronomy,4017,1226,41,0.018475138626286976
+2023,Agricultural and Biological Sciences,Mathematics,941,171,1,0.002492913061622894
+2023,"Biochemistry, Genetics and Molecular Biology",Mathematics,4017,171,11,0.013272224344635689
+2023,Environmental Science,Mathematics,2078,171,7,0.011742950040376923
+2023,Decision Sciences,Mathematics,261,171,11,0.05206841723628147
+2023,Engineering,Mathematics,3458,171,8,0.010403499181208423
+2023,Engineering,"Pharmacology, Toxicology and Pharmaceutics",3458,126,7,0.01060474604959628
+2023,Computer Science,Environmental Science,1941,2078,42,0.020912875456743654
+2023,Arts and Humanities,Computer Science,91,1941,10,0.02379394953485724
+2023,Arts and Humanities,Medicine,91,6489,7,0.009109372399069934
+2023,Decision Sciences,Health Professions,261,529,18,0.048442262133143836
+2023,Nursing,Psychology,176,702,7,0.019914671641635077
+2023,"Biochemistry, Genetics and Molecular Biology",Psychology,4017,702,27,0.016078454175960398
+2023,Agricultural and Biological Sciences,Energy,941,650,2,0.0025572813161462856
+2023,Arts and Humanities,Engineering,91,3458,2,0.0035653059589178513
+2023,Agricultural and Biological Sciences,Engineering,941,3458,56,0.031044217737514927
+2023,Physics and Astronomy,Social Sciences,1226,1007,11,0.009899943471484159
+2023,Chemical Engineering,Environmental Science,198,2078,15,0.02338492020419382
+2023,Agricultural and Biological Sciences,Chemistry,941,694,12,0.014849324540471
+2023,Decision Sciences,Medicine,261,6489,21,0.016136530158307745
+2023,Neuroscience,Physics and Astronomy,1268,1226,18,0.01443669040884145
+2023,"Biochemistry, Genetics and Molecular Biology",Health Professions,4017,529,17,0.011661922997579585
+2023,Chemical Engineering,Physics and Astronomy,198,1226,7,0.01420758325978793
+2023,Agricultural and Biological Sciences,Neuroscience,941,1268,20,0.018309460898521437
+2023,Dentistry,Health Professions,57,529,6,0.03455301801039225
+2023,Agricultural and Biological Sciences,"Economics, Econometrics and Finance",941,562,13,0.017876413130448125
+2023,Agricultural and Biological Sciences,Veterinary,941,23,3,0.02039212689612316
+2023,Immunology and Microbiology,Veterinary,1062,23,5,0.03199217950781386
+2023,Engineering,Health Professions,3458,529,26,0.019223524587105783
+2023,Decision Sciences,Environmental Science,261,2078,12,0.016294394277055146
+2023,Engineering,Veterinary,3458,23,2,0.007091752708001445
+2023,Medicine,Veterinary,6489,23,10,0.025884941923111294
+2023,Mathematics,Neuroscience,171,1268,1,0.0021475452232955564
+2023,"Biochemistry, Genetics and Molecular Biology","Business, Management and Accounting",4017,479,3,0.0021627313824507614
+2023,Agricultural and Biological Sciences,Social Sciences,941,1007,24,0.024654811969409343
+2023,Earth and Planetary Sciences,Energy,640,650,7,0.010853039276555723
+2023,Mathematics,Psychology,171,702,8,0.023089970376272428
+2023,Energy,Physics and Astronomy,650,1226,5,0.005601032477468135
+2023,Agricultural and Biological Sciences,Psychology,941,702,7,0.008612607828245508
+2023,Chemistry,Mathematics,694,171,2,0.005805668112021288
+2023,Immunology and Microbiology,"Pharmacology, Toxicology and Pharmaceutics",1062,126,5,0.013668550869586708
+2023,Arts and Humanities,Decision Sciences,91,261,1,0.006488720242031698
+2023,Agricultural and Biological Sciences,"Pharmacology, Toxicology and Pharmaceutics",941,126,9,0.026137402462747067
+2023,Dentistry,Engineering,57,3458,8,0.018019389158354184
+2023,"Biochemistry, Genetics and Molecular Biology",Energy,4017,650,15,0.0092828998466438
+2023,Arts and Humanities,Health Professions,91,529,4,0.018231040638641977
+2023,Chemistry,Immunology and Microbiology,694,1062,5,0.005824089104197978
+2023,Immunology and Microbiology,Materials Science,1062,1845,7,0.005000778242885382
+2023,Dentistry,Immunology and Microbiology,57,1062,3,0.012193308684991133
+2023,Agricultural and Biological Sciences,Computer Science,941,1941,11,0.008139263447891005
+2023,Immunology and Microbiology,Social Sciences,1062,1007,6,0.005801953672669841
+2023,Materials Science,Psychology,1845,702,1,0.0008786850931674557
+2023,Energy,Social Sciences,650,1007,1,0.00123602878942343
+2023,Engineering,Nursing,3458,176,6,0.007690993104979907
+2023,Immunology and Microbiology,Psychology,1062,702,4,0.004632646658056475
+2023,"Pharmacology, Toxicology and Pharmaceutics",Psychology,126,702,1,0.0033623751814933355
+2023,Decision Sciences,Neuroscience,261,1268,13,0.02259766009466444
+2023,Materials Science,Nursing,1845,176,4,0.007019488585711009
+2023,Agricultural and Biological Sciences,Physics and Astronomy,941,1226,1,0.0009310220208742587
+2023,"Biochemistry, Genetics and Molecular Biology",Veterinary,4017,23,5,0.016449593510069877
+2023,Computer Science,Veterinary,1941,23,3,0.014198568761747167
+2023,Computer Science,Immunology and Microbiology,1941,1062,9,0.0062685556160020466
+2023,"Business, Management and Accounting",Nursing,479,176,4,0.013776404967894814
+2023,Health Professions,Mathematics,529,171,1,0.0033248657082689996
+2023,"Business, Management and Accounting","Pharmacology, Toxicology and Pharmaceutics",479,126,1,0.004070492611109088
+2023,Health Professions,"Pharmacology, Toxicology and Pharmaceutics",529,126,2,0.007746702664128213
+2023,Neuroscience,Nursing,1268,176,11,0.023285025854013555
+2023,Immunology and Microbiology,Nursing,1062,176,5,0.011565153784445158
+2023,Decision Sciences,"Pharmacology, Toxicology and Pharmaceutics",261,126,1,0.005514351855394026
+2023,Nursing,"Pharmacology, Toxicology and Pharmaceutics",176,126,1,0.006715191366878124
+2023,Nursing,Social Sciences,176,1007,7,0.01662750054841905
+2023,Physics and Astronomy,Psychology,1226,702,3,0.0032337576086060643
+2023,Decision Sciences,Materials Science,261,1845,5,0.007205291664779444
+2023,Computer Science,Dentistry,1941,57,1,0.003006421056307948
+2023,Agricultural and Biological Sciences,Health Professions,941,529,3,0.004252052391122657
+2023,Immunology and Microbiology,Mathematics,1062,171,4,0.009386413402122458
+2023,Arts and Humanities,Environmental Science,91,2078,4,0.009198489640014119
+2023,"Business, Management and Accounting",Materials Science,479,1845,2,0.0021274729833339508
+2023,Neuroscience,"Pharmacology, Toxicology and Pharmaceutics",1268,126,5,0.012509072367392538
+2023,Environmental Science,"Pharmacology, Toxicology and Pharmaceutics",2078,126,1,0.001954303257083878
+2023,"Business, Management and Accounting",Energy,479,650,4,0.007168619946119982
+2023,Agricultural and Biological Sciences,Decision Sciences,941,261,1,0.0020178316727188284
+2023,Arts and Humanities,Neuroscience,91,1268,3,0.00883163133668476
+2023,"Biochemistry, Genetics and Molecular Biology",Chemical Engineering,4017,198,4,0.004485144921949999
+2023,Chemical Engineering,Medicine,198,6489,1,0.0008822232883014872
+2023,"Economics, Econometrics and Finance",Physics and Astronomy,562,1226,4,0.004818885401923102
+2023,Materials Science,Veterinary,1845,23,1,0.004854426129403411
+2023,Arts and Humanities,Dentistry,91,57,2,0.02776974371317616
+2023,Dentistry,Materials Science,57,1845,1,0.0030836450863377073
+2023,Psychology,Veterinary,702,23,1,0.007869869410831365
+2023,Chemistry,Social Sciences,694,1007,1,0.0011962047689492493
+2023,Agricultural and Biological Sciences,"Business, Management and Accounting",941,479,5,0.0074474472518737895
+2023,"Business, Management and Accounting",Mathematics,479,171,1,0.003494090811335405
+2023,Computer Science,Nursing,1941,176,1,0.0017109247090477022
+2023,"Business, Management and Accounting",Neuroscience,479,1268,4,0.005132543133644686
+2023,Arts and Humanities,Physics and Astronomy,91,1226,1,0.002993877791839908
+2023,Earth and Planetary Sciences,Mathematics,640,171,1,0.003022817708791706
+2023,Chemical Engineering,"Pharmacology, Toxicology and Pharmaceutics",198,126,1,0.006331143136646513
+2023,Earth and Planetary Sciences,"Pharmacology, Toxicology and Pharmaceutics",640,126,1,0.0035214760613688063
+2023,Arts and Humanities,"Economics, Econometrics and Finance",91,562,1,0.004421922696782285
+2023,Dentistry,Neuroscience,57,1268,1,0.003719657438299747
+2023,"Business, Management and Accounting",Immunology and Microbiology,479,1062,1,0.0014020709300443868
+2023,Chemical Engineering,Neuroscience,198,1268,1,0.0019957575371487356
+2023,Chemical Engineering,Decision Sciences,198,261,1,0.004398931013693846
+2023,Chemical Engineering,Health Professions,198,529,1,0.003089865454429127
+2023,Mathematics,"Pharmacology, Toxicology and Pharmaceutics",171,126,1,0.006812659327610685
+2023,Earth and Planetary Sciences,"Economics, Econometrics and Finance",640,562,2,0.003334815803201295
+2023,Earth and Planetary Sciences,Immunology and Microbiology,640,1062,1,0.0012129635619574609
+2024,Medicine,Social Sciences,8438,1209,225,0.07044490814201854
+2024,"Biochemistry, Genetics and Molecular Biology",Medicine,5172,8438,2460,0.3723797778205161
+2024,Arts and Humanities,Psychology,126,886,35,0.10475286525452078
+2024,"Business, Management and Accounting",Environmental Science,579,2520,54,0.044704805279745075
+2024,"Business, Management and Accounting",Health Professions,579,736,31,0.04748795905450735
+2024,Environmental Science,Health Professions,2520,736,71,0.052133774746215736
+2024,Computer Science,Medicine,2235,8438,485,0.1116820081405546
+2024,Arts and Humanities,Social Sciences,126,1209,45,0.11529596026942449
+2024,Medicine,Neuroscience,8438,1648,731,0.1960284079317129
+2024,Engineering,Materials Science,4494,2360,1315,0.40378782251760753
+2024,"Economics, Econometrics and Finance",Mathematics,631,228,32,0.08436608092367824
+2024,"Economics, Econometrics and Finance",Social Sciences,631,1209,92,0.10533191919377984
+2024,Mathematics,Social Sciences,228,1209,22,0.04190270957740972
+2024,"Business, Management and Accounting","Economics, Econometrics and Finance",579,631,139,0.22996452135714124
+2024,"Economics, Econometrics and Finance",Health Professions,631,736,52,0.07630443076573057
+2024,Decision Sciences,Health Professions,345,736,21,0.04167454241887125
+2024,Decision Sciences,Medicine,345,8438,35,0.02051345137535095
+2024,Health Professions,Medicine,736,8438,411,0.16492373217079476
+2024,Environmental Science,Medicine,2520,8438,181,0.039251706604519064
+2024,Immunology and Microbiology,Medicine,1305,8438,840,0.25313620779746565
+2024,Engineering,Medicine,4494,8438,438,0.07112754448529678
+2024,Health Professions,Psychology,736,886,92,0.1139284160028214
+2024,Health Professions,Social Sciences,736,1209,126,0.1335729407459253
+2024,Psychology,Social Sciences,886,1209,208,0.20097096764981454
+2024,"Biochemistry, Genetics and Molecular Biology",Materials Science,5172,2360,241,0.06898136485236153
+2024,Environmental Science,Social Sciences,2520,1209,130,0.07447833024480294
+2024,Energy,Engineering,787,4494,370,0.19674233609566896
+2024,Computer Science,Decision Sciences,2235,345,106,0.1207139758112749
+2024,Earth and Planetary Sciences,Environmental Science,713,2520,413,0.30810944830270226
+2024,"Biochemistry, Genetics and Molecular Biology",Computer Science,5172,2235,190,0.055883754886868656
+2024,Computer Science,Social Sciences,2235,1209,240,0.14600217567675652
+2024,Decision Sciences,Environmental Science,345,2520,15,0.016087236302194653
+2024,Decision Sciences,Social Sciences,345,1209,52,0.08051571346835762
+2024,Agricultural and Biological Sciences,"Biochemistry, Genetics and Molecular Biology",1226,5172,438,0.17394006070559437
+2024,Chemistry,Environmental Science,938,2520,105,0.0682947955885191
+2024,Chemistry,Health Professions,938,736,3,0.0036106128908119798
+2024,Computer Science,Engineering,2235,4494,408,0.12873743898331944
+2024,Computer Science,Materials Science,2235,2360,88,0.03831668308097841
+2024,Energy,Environmental Science,787,2520,152,0.1079334232193389
+2024,Engineering,Environmental Science,4494,2520,555,0.1649210832417389
+2024,Earth and Planetary Sciences,"Economics, Econometrics and Finance",713,631,3,0.004472618029811551
+2024,"Economics, Econometrics and Finance",Environmental Science,631,2520,85,0.06740684117964972
+2024,Environmental Science,Physics and Astronomy,2520,1597,27,0.013458945536579562
+2024,Environmental Science,Psychology,2520,886,39,0.026100418783806884
+2024,Physics and Astronomy,Psychology,1597,886,4,0.003362719732310736
+2024,"Economics, Econometrics and Finance",Engineering,631,4494,29,0.01722133378070151
+2024,Materials Science,Physics and Astronomy,2360,1597,249,0.128259897213605
+2024,"Biochemistry, Genetics and Molecular Biology",Immunology and Microbiology,5172,1305,552,0.21247339816769442
+2024,"Biochemistry, Genetics and Molecular Biology",Neuroscience,5172,1648,449,0.153793676561831
+2024,"Biochemistry, Genetics and Molecular Biology",Engineering,5172,4494,317,0.06575268170019621
+2024,"Biochemistry, Genetics and Molecular Biology",Environmental Science,5172,2520,266,0.07368042260155915
+2024,Agricultural and Biological Sciences,Environmental Science,1226,2520,326,0.18546932636432298
+2024,Agricultural and Biological Sciences,Medicine,1226,8438,218,0.06777842894573015
+2024,Arts and Humanities,"Biochemistry, Genetics and Molecular Biology",126,5172,11,0.013626306534044945
+2024,Arts and Humanities,Earth and Planetary Sciences,126,713,10,0.03336337389417905
+2024,"Biochemistry, Genetics and Molecular Biology",Earth and Planetary Sciences,5172,713,28,0.014580889150850108
+2024,Materials Science,Medicine,2360,8438,112,0.025098181791424246
+2024,Medicine,Nursing,8438,274,147,0.09667680578321662
+2024,"Economics, Econometrics and Finance",Medicine,631,8438,128,0.055472217802711624
+2024,Engineering,Immunology and Microbiology,4494,1305,33,0.013626745660276812
+2024,Engineering,Neuroscience,4494,1648,168,0.06173253964741937
+2024,Materials Science,Neuroscience,2360,1648,47,0.023832151596708255
+2024,Engineering,Psychology,4494,886,33,0.01653790698184174
+2024,Environmental Science,Immunology and Microbiology,2520,1305,36,0.019851666679418595
+2024,"Biochemistry, Genetics and Molecular Biology",Dentistry,5172,92,14,0.020295738748119515
+2024,Dentistry,Medicine,92,8438,47,0.05334382872640831
+2024,Energy,Materials Science,787,2360,260,0.190778741821891
+2024,Engineering,Physics and Astronomy,4494,1597,323,0.12056840904056774
+2024,Decision Sciences,"Economics, Econometrics and Finance",345,631,53,0.11359301909246336
+2024,Decision Sciences,Engineering,345,4494,70,0.05621755564491448
+2024,"Biochemistry, Genetics and Molecular Biology",Chemistry,5172,938,177,0.08036049238010579
+2024,"Economics, Econometrics and Finance",Immunology and Microbiology,631,1305,9,0.009917965059963245
+2024,Computer Science,Neuroscience,2235,1648,109,0.056794872709448004
+2024,Computer Science,Physics and Astronomy,2235,1597,188,0.09950997736681869
+2024,Chemical Engineering,Energy,282,787,119,0.25260098577330103
+2024,Chemical Engineering,Materials Science,282,2360,118,0.14464434249428074
+2024,Computer Science,Psychology,2235,886,119,0.08456513309199302
+2024,Medicine,Psychology,8438,886,296,0.10825677609688952
+2024,Energy,Immunology and Microbiology,787,1305,1,0.000986750551923194
+2024,Chemical Engineering,Environmental Science,282,2520,16,0.018979954112457637
+2024,Environmental Science,Materials Science,2520,2360,159,0.06519898764792877
+2024,"Business, Management and Accounting",Medicine,579,8438,31,0.014024992944443386
+2024,"Biochemistry, Genetics and Molecular Biology",Nursing,5172,274,59,0.04956184579680724
+2024,Agricultural and Biological Sciences,Neuroscience,1226,1648,37,0.026030222795292178
+2024,Environmental Science,Neuroscience,2520,1648,33,0.01619328896455558
+2024,Chemical Engineering,Computer Science,282,2235,17,0.02141339870994717
+2024,Computer Science,Energy,2235,787,25,0.01885010956073667
+2024,Agricultural and Biological Sciences,Immunology and Microbiology,1226,1305,30,0.02371760127946556
+2024,Immunology and Microbiology,Mathematics,1305,228,1,0.0018332737529045265
+2024,Mathematics,Medicine,228,8438,51,0.03676909935098349
+2024,"Economics, Econometrics and Finance","Pharmacology, Toxicology and Pharmaceutics",631,160,3,0.009441621446070731
+2024,Medicine,"Pharmacology, Toxicology and Pharmaceutics",8438,160,60,0.05163824794993703
+2024,"Biochemistry, Genetics and Molecular Biology","Economics, Econometrics and Finance",5172,631,10,0.00553548989463467
+2024,"Biochemistry, Genetics and Molecular Biology",Mathematics,5172,228,17,0.015654970002495234
+2024,Chemistry,Materials Science,938,2360,307,0.20633882580166926
+2024,Chemistry,Medicine,938,8438,71,0.025236967533213753
+2024,Chemistry,Energy,938,787,104,0.1210443587205983
+2024,Chemistry,Engineering,938,4494,238,0.1159201685206117
+2024,Chemistry,Computer Science,938,2235,29,0.02002893305563429
+2024,Chemical Engineering,Engineering,282,4494,100,0.08882984653270982
+2024,Chemical Engineering,Chemistry,282,938,61,0.11860523590466364
+2024,"Economics, Econometrics and Finance",Energy,631,787,49,0.06953349101528758
+2024,Agricultural and Biological Sciences,Computer Science,1226,2235,13,0.00785342957303994
+2024,Immunology and Microbiology,Neuroscience,1305,1648,87,0.05932467847134236
+2024,"Business, Management and Accounting",Engineering,579,4494,71,0.044015185125342284
+2024,"Business, Management and Accounting",Decision Sciences,579,345,59,0.13200889089531925
+2024,"Business, Management and Accounting",Social Sciences,579,1209,144,0.1721115674442923
+2024,Agricultural and Biological Sciences,Engineering,1226,4494,74,0.03152607835359583
+2024,Agricultural and Biological Sciences,Materials Science,1226,2360,43,0.02527942660906017
+2024,"Business, Management and Accounting",Materials Science,579,2360,5,0.00427734933556816
+2024,"Biochemistry, Genetics and Molecular Biology",Physics and Astronomy,5172,1597,52,0.018093460117593205
+2024,Medicine,Physics and Astronomy,8438,1597,44,0.011986170686826591
+2024,Arts and Humanities,Neuroscience,126,1648,16,0.035112043543314805
+2024,Neuroscience,Social Sciences,1648,1209,51,0.03613087023783396
+2024,Neuroscience,Psychology,1648,886,214,0.17709989704789503
+2024,Computer Science,Environmental Science,2235,2520,61,0.025703413378833112
+2024,Engineering,Social Sciences,4494,1209,81,0.034750042046265424
+2024,Agricultural and Biological Sciences,Health Professions,1226,736,5,0.005263636163739991
+2024,"Biochemistry, Genetics and Molecular Biology",Health Professions,5172,736,25,0.012813620087487406
+2024,Arts and Humanities,Medicine,126,8438,21,0.02036639964875384
+2024,Agricultural and Biological Sciences,Chemistry,1226,938,37,0.03450285792027208
+2024,Agricultural and Biological Sciences,Energy,1226,787,13,0.01323459790441231
+2024,Chemical Engineering,Earth and Planetary Sciences,282,713,4,0.008920530290440565
+2024,Immunology and Microbiology,Social Sciences,1305,1209,10,0.007961256083089558
+2024,Physics and Astronomy,Social Sciences,1597,1209,13,0.009355731377255103
+2024,Immunology and Microbiology,Materials Science,1305,2360,13,0.007407677982806372
+2024,Computer Science,Health Professions,2235,736,50,0.03898453275823601
+2024,Earth and Planetary Sciences,Social Sciences,713,1209,20,0.02154130849336055
+2024,Earth and Planetary Sciences,Engineering,713,4494,114,0.06368593838979353
+2024,Arts and Humanities,"Business, Management and Accounting",126,579,5,0.01851166361600022
+2024,Neuroscience,Physics and Astronomy,1648,1597,18,0.011095361160904286
+2024,Computer Science,Mathematics,2235,228,40,0.05603428105264533
+2024,Environmental Science,Nursing,2520,274,25,0.03008600039496705
+2024,Chemical Engineering,Neuroscience,282,1648,2,0.0029337752322807567
+2024,Mathematics,Physics and Astronomy,228,1597,61,0.10109040895079374
+2024,Agricultural and Biological Sciences,Earth and Planetary Sciences,1226,713,40,0.042782877521777556
+2024,"Biochemistry, Genetics and Molecular Biology",Social Sciences,5172,1209,39,0.015596322197008454
+2024,Earth and Planetary Sciences,Physics and Astronomy,713,1597,103,0.09652504254309595
+2024,Medicine,Veterinary,8438,41,26,0.04420400904337839
+2024,Arts and Humanities,Decision Sciences,126,345,3,0.014388861576723786
+2024,Arts and Humanities,Health Professions,126,736,9,0.029554140233966176
+2024,"Biochemistry, Genetics and Molecular Biology",Energy,5172,787,22,0.010904507525315086
+2024,"Pharmacology, Toxicology and Pharmaceutics",Social Sciences,160,1209,5,0.011368334993716648
+2024,"Business, Management and Accounting",Computer Science,579,2235,89,0.07823695892330104
+2024,Computer Science,"Economics, Econometrics and Finance",2235,631,25,0.021051670571710503
+2024,Earth and Planetary Sciences,Materials Science,713,2360,26,0.020043454824427844
+2024,Agricultural and Biological Sciences,Psychology,1226,886,18,0.017270718639841885
+2024,"Biochemistry, Genetics and Molecular Biology",Psychology,5172,886,34,0.015883009585343607
+2024,Decision Sciences,Physics and Astronomy,345,1597,19,0.025597148934193795
+2024,Materials Science,Psychology,2360,886,2,0.0013831113118418987
+2024,Computer Science,Earth and Planetary Sciences,2235,713,35,0.027725827423498734
+2024,"Biochemistry, Genetics and Molecular Biology","Pharmacology, Toxicology and Pharmaceutics",5172,160,50,0.05496430677571467
+2024,Materials Science,"Pharmacology, Toxicology and Pharmaceutics",2360,160,18,0.02929250497068532
+2024,Agricultural and Biological Sciences,Nursing,1226,274,58,0.10007082427839131
+2024,Agricultural and Biological Sciences,Arts and Humanities,1226,126,2,0.005088613760634592
+2024,Agricultural and Biological Sciences,Mathematics,1226,228,1,0.0018914172319762093
+2024,Agricultural and Biological Sciences,Social Sciences,1226,1209,23,0.018891630841116922
+2024,Energy,Social Sciences,787,1209,3,0.0030755354560072852
+2024,Dentistry,Immunology and Microbiology,92,1305,4,0.01154411971452743
+2024,Arts and Humanities,Computer Science,126,2235,13,0.024497361783443538
+2024,Dentistry,Engineering,92,4494,22,0.03421466035070951
+2024,Engineering,Nursing,4494,274,11,0.009912903300773195
+2024,Immunology and Microbiology,Nursing,1305,274,11,0.01839552334797846
+2024,"Economics, Econometrics and Finance",Neuroscience,631,1648,2,0.001961266960907759
+2024,Health Professions,Neuroscience,736,1648,21,0.01906785250508723
+2024,Computer Science,Immunology and Microbiology,2235,1305,7,0.004098774450995947
+2024,Engineering,"Pharmacology, Toxicology and Pharmaceutics",4494,160,18,0.021227359729087594
+2024,Neuroscience,Nursing,1648,274,24,0.03571555116864745
+2024,"Biochemistry, Genetics and Molecular Biology",Decision Sciences,5172,345,15,0.011229294024349072
+2024,Decision Sciences,Mathematics,345,228,14,0.04991729748139826
+2024,Decision Sciences,Psychology,345,886,14,0.02532221122893012
+2024,Mathematics,Psychology,228,886,11,0.024474194139239694
+2024,Health Professions,Nursing,736,274,21,0.04676329517842102
+2024,Chemistry,Neuroscience,938,1648,30,0.024129106030694087
+2024,"Business, Management and Accounting",Psychology,579,886,12,0.016754254310049663
+2024,Chemistry,Earth and Planetary Sciences,938,713,17,0.02078752273756797
+2024,Chemistry,Physics and Astronomy,938,1597,66,0.053924988143119156
+2024,Nursing,Social Sciences,274,1209,6,0.010424682063447328
+2024,Agricultural and Biological Sciences,"Economics, Econometrics and Finance",1226,631,11,0.012506413118980908
+2024,Chemistry,"Pharmacology, Toxicology and Pharmaceutics",938,160,37,0.09550812376838361
+2024,Decision Sciences,Earth and Planetary Sciences,345,713,4,0.008065024274089866
+2024,Earth and Planetary Sciences,Energy,713,787,4,0.005339835278033777
+2024,Engineering,Health Professions,4494,736,35,0.01924476459657597
+2024,Dentistry,Health Professions,92,736,6,0.023057829821300373
+2024,Environmental Science,"Pharmacology, Toxicology and Pharmaceutics",2520,160,4,0.006299407883487111
+2024,Immunology and Microbiology,"Pharmacology, Toxicology and Pharmaceutics",1305,160,6,0.013130643285972226
+2024,Agricultural and Biological Sciences,"Business, Management and Accounting",1226,579,14,0.0166166517752002
+2024,Chemical Engineering,Physics and Astronomy,282,1597,9,0.013411133856033201
+2024,Earth and Planetary Sciences,Medicine,713,8438,11,0.004484645921973717
+2024,Computer Science,Nursing,2235,274,1,0.00127786788247232
+2024,Arts and Humanities,Engineering,126,4494,2,0.002657836058028318
+2024,Arts and Humanities,Environmental Science,126,2520,8,0.01419725699999864
+2024,Mathematics,Nursing,228,274,1,0.004000896301168422
+2024,Chemistry,Immunology and Microbiology,938,1305,5,0.004519218393207696
+2024,Computer Science,"Pharmacology, Toxicology and Pharmaceutics",2235,160,12,0.020067001862719498
+2024,Chemistry,Psychology,938,886,27,0.029617301336369566
+2024,"Business, Management and Accounting",Energy,579,787,2,0.0029628069015243882
+2024,Engineering,Mathematics,4494,228,18,0.017782325170484174
+2024,Neuroscience,"Pharmacology, Toxicology and Pharmaceutics",1648,160,9,0.017526851798899346
+2024,Energy,Medicine,787,8438,6,0.0023283278003317248
+2024,Agricultural and Biological Sciences,Veterinary,1226,41,9,0.040142585956280605
+2024,Engineering,Veterinary,4494,41,3,0.006988963821049136
+2024,Computer Science,Dentistry,2235,92,4,0.008821192791916078
+2024,Energy,Physics and Astronomy,787,1597,7,0.006243932734175267
+2024,"Economics, Econometrics and Finance",Physics and Astronomy,631,1597,4,0.003984674528381754
+2024,"Pharmacology, Toxicology and Pharmaceutics",Psychology,160,886,5,0.013279849464729189
+2024,Decision Sciences,Energy,345,787,3,0.005757372658250533
+2024,Environmental Science,Mathematics,2520,228,8,0.010554126447688378
+2024,Chemical Engineering,Mathematics,282,228,1,0.003943737702335826
+2024,"Biochemistry, Genetics and Molecular Biology",Veterinary,5172,41,6,0.013029569414808213
+2024,Health Professions,Veterinary,736,41,2,0.011513282476462534
+2024,Energy,"Pharmacology, Toxicology and Pharmaceutics",787,160,2,0.005636151236649761
+2024,Chemical Engineering,Medicine,282,8438,1,0.0006482696433968736
+2024,"Pharmacology, Toxicology and Pharmaceutics",Physics and Astronomy,160,1597,1,0.0019782790443862355
+2024,Materials Science,Nursing,2360,274,10,0.012435656492277066
+2024,Decision Sciences,Materials Science,345,2360,8,0.008865932856383643
+2024,Health Professions,"Pharmacology, Toxicology and Pharmaceutics",736,160,3,0.008742232577252916
+2024,Agricultural and Biological Sciences,Physics and Astronomy,1226,1597,2,0.0014293293198940423
+2024,Nursing,Physics and Astronomy,274,1597,1,0.0015117231387229918
+2024,"Business, Management and Accounting",Chemistry,579,938,1,0.0013569357948465506
+2024,Nursing,"Pharmacology, Toxicology and Pharmaceutics",274,160,1,0.004776004499380416
+2024,Decision Sciences,Neuroscience,345,1648,3,0.00397862588198768
+2024,"Economics, Econometrics and Finance",Psychology,631,886,5,0.006687109947028191
+2024,"Biochemistry, Genetics and Molecular Biology","Business, Management and Accounting",5172,579,4,0.0023114869791803724
+2024,Chemistry,Mathematics,938,228,3,0.0064871271752423455
+2024,Agricultural and Biological Sciences,Chemical Engineering,1226,282,2,0.003401419572558077
+2024,Chemical Engineering,Nursing,282,274,1,0.003597494713620295
+2024,Immunology and Microbiology,Veterinary,1305,41,5,0.02161587499433827
+2024,Chemistry,Nursing,938,274,9,0.017752757014515275
+2024,Earth and Planetary Sciences,Health Professions,713,736,3,0.004141308489136641
+2024,Energy,Health Professions,787,736,1,0.0013139345320363754
+2024,Health Professions,Materials Science,736,2360,1,0.0007587611591824272
+2024,Computer Science,Veterinary,2235,41,3,0.009910385827915232
+2024,Chemistry,Decision Sciences,938,345,1,0.00175787922374814
+2024,Psychology,Veterinary,886,41,1,0.0052467601421456785
+2024,Neuroscience,Veterinary,1648,41,2,0.007694129003495091
+2024,Nursing,Psychology,274,886,11,0.022325466519713826
+2024,Agricultural and Biological Sciences,"Pharmacology, Toxicology and Pharmaceutics",1226,160,9,0.02032063537047266
+2024,"Biochemistry, Genetics and Molecular Biology",Chemical Engineering,5172,282,5,0.004140151105156816
+2024,Arts and Humanities,Physics and Astronomy,126,1597,3,0.006687803805613162
+2024,Chemical Engineering,"Pharmacology, Toxicology and Pharmaceutics",282,160,2,0.009415544714433824
+2024,"Pharmacology, Toxicology and Pharmaceutics",Veterinary,160,41,3,0.037039859874359156
+2024,Agricultural and Biological Sciences,Dentistry,1226,92,2,0.005955124520126856
+2024,Health Professions,Immunology and Microbiology,736,1305,8,0.008162925332971672
+2024,Energy,Neuroscience,787,1648,1,0.0008780798883639472
+2024,Earth and Planetary Sciences,Mathematics,713,228,2,0.004960412660004747
+2024,Arts and Humanities,Chemistry,126,938,1,0.0029087962941977347
+2024,Arts and Humanities,"Economics, Econometrics and Finance",126,631,3,0.010639502048910244
+2024,Earth and Planetary Sciences,Nursing,713,274,1,0.0022624550196597582
+2024,Earth and Planetary Sciences,Psychology,713,886,4,0.00503266897436134
+2024,"Business, Management and Accounting",Nursing,579,274,1,0.0025106457400328915
+2024,Dentistry,Environmental Science,92,2520,1,0.0020768532761634407
+2024,Dentistry,Nursing,92,274,1,0.006298408215483725
+2024,Dentistry,Neuroscience,92,1648,1,0.0025681919636213434
+2024,Mathematics,Neuroscience,228,1648,3,0.004894126917345552
+2024,Chemistry,Social Sciences,938,1209,2,0.0018780857870189676
+2024,Environmental Science,Veterinary,2520,41,2,0.0062221116078879585
+2024,Energy,Psychology,787,886,1,0.0011975558397305027
+2024,Chemical Engineering,Decision Sciences,282,345,1,0.003206017571525128
+2024,Mathematics,"Pharmacology, Toxicology and Pharmaceutics",228,160,2,0.010471347707292333
+2024,"Business, Management and Accounting",Neuroscience,579,1648,1,0.001023722183837114
+2024,Dentistry,Materials Science,92,2360,1,0.0021461006438354357
+2025,Computer Science,Mathematics,1149,264,45,0.08170535776664775
+2025,Computer Science,Decision Sciences,1149,260,71,0.129900750553295
+2025,"Biochemistry, Genetics and Molecular Biology","Pharmacology, Toxicology and Pharmaceutics",4470,183,60,0.06633946181633332
+2025,Health Professions,Medicine,875,7840,500,0.19090088708030306
+2025,Immunology and Microbiology,Medicine,1064,7840,708,0.2451344856719967
+2025,Engineering,Physics and Astronomy,2675,1238,252,0.13847721648834058
+2025,Arts and Humanities,Social Sciences,139,1191,57,0.14009143205852567
+2025,Environmental Science,Materials Science,1800,1542,78,0.04681835639426526
+2025,"Biochemistry, Genetics and Molecular Biology",Social Sciences,4470,1191,31,0.013435444879423901
+2025,Engineering,Materials Science,2675,1542,785,0.3865143092718883
+2025,Decision Sciences,Social Sciences,260,1191,55,0.09883713199231492
+2025,"Business, Management and Accounting","Economics, Econometrics and Finance",299,428,55,0.1537464903952239
+2025,"Biochemistry, Genetics and Molecular Biology",Medicine,4470,7840,2121,0.35828520565410454
+2025,"Economics, Econometrics and Finance",Medicine,428,7840,148,0.080794500353866
+2025,"Biochemistry, Genetics and Molecular Biology",Computer Science,4470,1149,140,0.06177521417359093
+2025,"Biochemistry, Genetics and Molecular Biology",Materials Science,4470,1542,212,0.08074951313435727
+2025,Computer Science,Materials Science,1149,1542,56,0.04207128972310919
+2025,Chemical Engineering,Materials Science,178,1542,74,0.14124709733555557
+2025,Computer Science,Environmental Science,1149,1800,33,0.022946564483250765
+2025,Computer Science,Health Professions,1149,875,36,0.0359036382846342
+2025,Environmental Science,Health Professions,1800,875,46,0.036653677352921375
+2025,"Business, Management and Accounting",Social Sciences,299,1191,97,0.1625474868928195
+2025,"Economics, Econometrics and Finance",Social Sciences,428,1191,106,0.14846637336667612
+2025,Energy,Engineering,371,2675,172,0.17265517456910762
+2025,"Biochemistry, Genetics and Molecular Biology",Engineering,4470,2675,283,0.0818409723888123
+2025,Computer Science,Engineering,1149,2675,189,0.10780524642783205
+2025,Medicine,Neuroscience,7840,1455,697,0.206368425209252
+2025,Arts and Humanities,"Biochemistry, Genetics and Molecular Biology",139,4470,10,0.012686412788798772
+2025,Computer Science,Medicine,1149,7840,234,0.07796466402664719
+2025,Health Professions,Mathematics,875,264,6,0.012483755678647158
+2025,Health Professions,Psychology,875,1035,155,0.1628761506227473
+2025,Mathematics,Psychology,264,1035,14,0.02678279501139591
+2025,Energy,Materials Science,371,1542,144,0.19038527271748326
+2025,"Biochemistry, Genetics and Molecular Biology",Neuroscience,4470,1455,372,0.14586721180190737
+2025,Neuroscience,Psychology,1455,1035,218,0.17764575006800357
+2025,"Biochemistry, Genetics and Molecular Biology",Chemistry,4470,757,165,0.08969789326734073
+2025,Chemistry,Materials Science,757,1542,226,0.20917911080865562
+2025,Chemistry,Engineering,757,2675,160,0.1124372330873455
+2025,Chemistry,Environmental Science,757,1800,60,0.051400466204342674
+2025,Engineering,Environmental Science,2675,1800,275,0.1253240866211882
+2025,Environmental Science,Physics and Astronomy,1800,1238,15,0.010048348388226753
+2025,"Biochemistry, Genetics and Molecular Biology",Immunology and Microbiology,4470,1064,447,0.20496652945173438
+2025,Materials Science,Medicine,1542,7840,97,0.02789790018341138
+2025,Computer Science,Neuroscience,1149,1455,65,0.05027150020215096
+2025,Engineering,Neuroscience,2675,1455,123,0.06234644881726081
+2025,Environmental Science,Medicine,1800,7840,175,0.04658474953124561
+2025,Energy,Environmental Science,371,1800,58,0.07097489949405397
+2025,Energy,Social Sciences,371,1191,1,0.0015043786608191314
+2025,Environmental Science,Social Sciences,1800,1191,93,0.06351712251877163
+2025,"Biochemistry, Genetics and Molecular Biology",Environmental Science,4470,1800,277,0.09765393655599308
+2025,Earth and Planetary Sciences,Environmental Science,602,1800,356,0.3419916478378458
+2025,Agricultural and Biological Sciences,"Biochemistry, Genetics and Molecular Biology",1114,4470,428,0.19179947409800488
+2025,Decision Sciences,Mathematics,260,264,10,0.038169051034528556
+2025,Engineering,Immunology and Microbiology,2675,1064,18,0.01066939510229051
+2025,Engineering,Medicine,2675,7840,405,0.08843722336031282
+2025,Engineering,Health Professions,2675,875,36,0.0235307939592456
+2025,Medicine,Nursing,7840,266,155,0.10733289626881207
+2025,Computer Science,Social Sciences,1149,1191,122,0.1042903045251842
+2025,Computer Science,Psychology,1149,1035,77,0.07060907724160659
+2025,Agricultural and Biological Sciences,Environmental Science,1114,1800,274,0.19349587669721288
+2025,"Business, Management and Accounting",Decision Sciences,299,260,37,0.13270260732650568
+2025,"Business, Management and Accounting",Medicine,299,7840,30,0.01959420417748539
+2025,"Economics, Econometrics and Finance",Environmental Science,428,1800,38,0.04329377537822862
+2025,Mathematics,Physics and Astronomy,264,1238,65,0.11369754068716717
+2025,Agricultural and Biological Sciences,Medicine,1114,7840,216,0.0730891858738931
+2025,Computer Science,Immunology and Microbiology,1149,1064,3,0.002713253840421112
+2025,"Business, Management and Accounting",Mathematics,299,264,2,0.0071185647231335625
+2025,Mathematics,Social Sciences,264,1191,19,0.03388408455181514
+2025,Neuroscience,Nursing,1455,266,27,0.04340017185073257
+2025,Nursing,Psychology,266,1035,7,0.013340958917790456
+2025,Chemical Engineering,Energy,178,371,62,0.24126522754326268
+2025,Medicine,"Pharmacology, Toxicology and Pharmaceutics",7840,183,95,0.07931220591099551
+2025,Computer Science,Energy,1149,371,10,0.015316270607516164
+2025,Chemistry,Physics and Astronomy,757,1238,83,0.08573730542859277
+2025,"Economics, Econometrics and Finance",Mathematics,428,264,24,0.07139822149245345
+2025,Computer Science,Physics and Astronomy,1149,1238,159,0.133314315651846
+2025,Medicine,Social Sciences,7840,1191,235,0.07690488909327575
+2025,Chemical Engineering,Physics and Astronomy,178,1238,5,0.010651227989085667
+2025,Psychology,Social Sciences,1035,1191,254,0.22877452430219616
+2025,Decision Sciences,"Economics, Econometrics and Finance",260,428,36,0.10791801345283357
+2025,Dentistry,Environmental Science,117,1800,5,0.0108953408410102
+2025,Dentistry,Nursing,117,266,2,0.011336950397523866
+2025,Environmental Science,Nursing,1800,266,23,0.03323921549842455
+2025,Chemistry,Psychology,757,1035,31,0.035022212529869735
+2025,Health Professions,Social Sciences,875,1191,195,0.19101818055898798
+2025,"Biochemistry, Genetics and Molecular Biology",Veterinary,4470,58,12,0.023567498477656212
+2025,Environmental Science,Veterinary,1800,58,14,0.04332891224131197
+2025,"Economics, Econometrics and Finance",Health Professions,428,875,66,0.10784947231320889
+2025,Agricultural and Biological Sciences,Psychology,1114,1035,22,0.020488488037140897
+2025,"Biochemistry, Genetics and Molecular Biology",Psychology,4470,1035,55,0.025570472493421714
+2025,Decision Sciences,Medicine,260,7840,40,0.028016590734026275
+2025,Decision Sciences,Environmental Science,260,1800,10,0.01461763365511713
+2025,Medicine,Psychology,7840,1035,305,0.10707094435058002
+2025,Agricultural and Biological Sciences,Earth and Planetary Sciences,1114,602,39,0.04762376932717435
+2025,Earth and Planetary Sciences,Psychology,602,1035,1,0.0012668686216220444
+2025,Immunology and Microbiology,Neuroscience,1064,1455,74,0.059474309573226164
+2025,"Biochemistry, Genetics and Molecular Biology",Earth and Planetary Sciences,4470,602,31,0.018897732040517576
+2025,Earth and Planetary Sciences,Physics and Astronomy,602,1238,72,0.08340151283607876
+2025,Mathematics,Medicine,264,7840,60,0.04170530058008156
+2025,Immunology and Microbiology,Materials Science,1064,1542,5,0.003903525344826993
+2025,Agricultural and Biological Sciences,Engineering,1114,2675,39,0.022592282941546225
+2025,Agricultural and Biological Sciences,Nursing,1114,266,49,0.09001453996589982
+2025,"Biochemistry, Genetics and Molecular Biology",Nursing,4470,266,48,0.04401965733191609
+2025,Chemical Engineering,Engineering,178,2675,76,0.11013914428414529
+2025,Medicine,Physics and Astronomy,7840,1238,81,0.025999599923881622
+2025,Neuroscience,Physics and Astronomy,1455,1238,16,0.011921424801209664
+2025,Agricultural and Biological Sciences,Materials Science,1114,1542,28,0.02136354152011784
+2025,Immunology and Microbiology,Social Sciences,1064,1191,6,0.00532996743595276
+2025,"Biochemistry, Genetics and Molecular Biology",Mathematics,4470,264,22,0.020251955098445924
+2025,Engineering,Mathematics,2675,264,22,0.02617934788056631
+2025,Chemistry,Energy,757,371,56,0.10567034672940073
+2025,Health Professions,Neuroscience,875,1455,27,0.02392920338558368
+2025,"Biochemistry, Genetics and Molecular Biology",Physics and Astronomy,4470,1238,69,0.02933154954964002
+2025,Materials Science,Physics and Astronomy,1542,1238,191,0.13823908738249935
+2025,Energy,Nursing,371,266,3,0.00954978252474825
+2025,Agricultural and Biological Sciences,Physics and Astronomy,1114,1238,3,0.002554573113379659
+2025,Computer Science,"Economics, Econometrics and Finance",1149,428,10,0.014259953231194703
+2025,"Pharmacology, Toxicology and Pharmaceutics",Psychology,183,1035,2,0.004595515930124356
+2025,"Business, Management and Accounting",Computer Science,299,1149,32,0.05459518850026961
+2025,Chemistry,Medicine,757,7840,66,0.02709180646262142
+2025,"Business, Management and Accounting",Health Professions,299,875,29,0.05669677773761875
+2025,Dentistry,Medicine,117,7840,65,0.06786758482732957
+2025,"Biochemistry, Genetics and Molecular Biology",Energy,4470,371,14,0.01087144615790866
+2025,"Economics, Econometrics and Finance",Energy,428,371,15,0.03764284329268328
+2025,Environmental Science,Immunology and Microbiology,1800,1064,29,0.020955157596832884
+2025,Agricultural and Biological Sciences,Neuroscience,1114,1455,33,0.02592028949997467
+2025,Environmental Science,Psychology,1800,1035,38,0.02784050887671099
+2025,Agricultural and Biological Sciences,Social Sciences,1114,1191,26,0.022572251046626145
+2025,"Biochemistry, Genetics and Molecular Biology","Economics, Econometrics and Finance",4470,428,6,0.004337860727322206
+2025,"Business, Management and Accounting",Engineering,299,2675,26,0.029072063638369658
+2025,Earth and Planetary Sciences,"Economics, Econometrics and Finance",602,428,6,0.011820371340434446
+2025,Arts and Humanities,Psychology,139,1035,45,0.11864103828341642
+2025,Decision Sciences,Engineering,260,2675,35,0.04196811634276869
+2025,"Business, Management and Accounting",Psychology,299,1035,25,0.04494012122797399
+2025,Computer Science,Earth and Planetary Sciences,1149,602,22,0.026452359774756122
+2025,"Biochemistry, Genetics and Molecular Biology",Health Professions,4470,875,29,0.014663586648908069
+2025,Chemistry,Nursing,757,266,3,0.00668547850259596
+2025,Agricultural and Biological Sciences,"Pharmacology, Toxicology and Pharmaceutics",1114,183,14,0.031007010433446374
+2025,"Biochemistry, Genetics and Molecular Biology",Dentistry,4470,117,11,0.015210587639155122
+2025,Earth and Planetary Sciences,Social Sciences,602,1191,24,0.028343737378038063
+2025,Chemistry,"Pharmacology, Toxicology and Pharmaceutics",757,183,24,0.0644818898070348
+2025,Materials Science,Social Sciences,1542,1191,3,0.002213722540363819
+2025,Neuroscience,Social Sciences,1455,1191,34,0.02582804531148532
+2025,Agricultural and Biological Sciences,Energy,1114,371,6,0.009333009333744294
+2025,Nursing,"Pharmacology, Toxicology and Pharmaceutics",266,183,6,0.0271947385083793
+2025,Chemistry,Neuroscience,757,1455,22,0.02096250814748816
+2025,Chemistry,Decision Sciences,757,260,10,0.022540595540319307
+2025,Decision Sciences,Physics and Astronomy,260,1238,10,0.01762596906937025
+2025,"Business, Management and Accounting",Environmental Science,299,1800,15,0.02044652050273824
+2025,Engineering,Psychology,2675,1035,20,0.012019818991152537
+2025,Materials Science,Psychology,1542,1035,1,0.0007915669231503407
+2025,Earth and Planetary Sciences,Engineering,602,2675,87,0.06855815377451988
+2025,Chemistry,Computer Science,757,1149,27,0.028950482754665215
+2025,Arts and Humanities,Decision Sciences,139,260,4,0.021040977754871886
+2025,Arts and Humanities,Medicine,139,7840,22,0.021074498530871486
+2025,Agricultural and Biological Sciences,Immunology and Microbiology,1114,1064,35,0.0321480499878214
+2025,"Economics, Econometrics and Finance",Immunology and Microbiology,428,1064,7,0.010373023016115764
+2025,Decision Sciences,Health Professions,260,875,26,0.05451081150953964
+2025,Decision Sciences,Psychology,260,1035,30,0.05783149319662391
+2025,Engineering,Social Sciences,2675,1191,42,0.02353051955245435
+2025,Chemical Engineering,Chemistry,178,757,40,0.10896877041588336
+2025,"Economics, Econometrics and Finance",Engineering,428,2675,15,0.014018691588785034
+2025,Materials Science,Neuroscience,1542,1455,31,0.02069607599003843
+2025,Arts and Humanities,Earth and Planetary Sciences,139,602,12,0.041483519984065936
+2025,Arts and Humanities,Environmental Science,139,1800,6,0.011995202878081318
+2025,Environmental Science,Neuroscience,1800,1455,20,0.01235839996266774
+2025,Arts and Humanities,"Economics, Econometrics and Finance",139,428,2,0.008199751879262111
+2025,Agricultural and Biological Sciences,Mathematics,1114,264,4,0.007375907004206609
+2025,Agricultural and Biological Sciences,"Business, Management and Accounting",1114,299,10,0.017326937562415507
+2025,Chemistry,Earth and Planetary Sciences,757,602,17,0.025182725757856447
+2025,Earth and Planetary Sciences,Materials Science,602,1542,24,0.02490983261383041
+2025,Medicine,Veterinary,7840,58,29,0.04300569492425813
+2025,Arts and Humanities,Computer Science,139,1149,8,0.02001808700593223
+2025,"Biochemistry, Genetics and Molecular Biology","Business, Management and Accounting",4470,299,7,0.0060549238318078685
+2025,Agricultural and Biological Sciences,Chemistry,1114,757,28,0.030490707107729897
+2025,Decision Sciences,Materials Science,260,1542,4,0.006317294604056127
+2025,Energy,Physics and Astronomy,371,1238,3,0.004426637691324621
+2025,Materials Science,"Pharmacology, Toxicology and Pharmaceutics",1542,183,13,0.024472346920289507
+2025,Neuroscience,"Pharmacology, Toxicology and Pharmaceutics",1455,183,10,0.01937951743024943
+2025,Physics and Astronomy,Social Sciences,1238,1191,8,0.006588306329665037
+2025,Chemical Engineering,"Pharmacology, Toxicology and Pharmaceutics",178,183,4,0.02216279071040981
+2025,Immunology and Microbiology,"Pharmacology, Toxicology and Pharmaceutics",1064,183,7,0.015863597463221295
+2025,"Biochemistry, Genetics and Molecular Biology",Decision Sciences,4470,260,10,0.009275974892418796
+2025,Dentistry,Immunology and Microbiology,117,1064,5,0.014171187996904871
+2025,Health Professions,Materials Science,875,1542,2,0.0017218042770596822
+2025,"Economics, Econometrics and Finance","Pharmacology, Toxicology and Pharmaceutics",428,183,3,0.010719482641657415
+2025,Health Professions,Immunology and Microbiology,875,1064,12,0.012436735716171616
+2025,Health Professions,Nursing,875,266,37,0.07669320358305821
+2025,Chemical Engineering,Environmental Science,178,1800,5,0.008833315666719651
+2025,Engineering,"Pharmacology, Toxicology and Pharmaceutics",2675,183,11,0.01572190787443091
+2025,Earth and Planetary Sciences,Medicine,602,7840,10,0.0046030291270220255
+2025,Energy,Medicine,371,7840,4,0.0023453896546539936
+2025,Psychology,Veterinary,1035,58,5,0.02040731333242912
+2025,Immunology and Microbiology,Psychology,1064,1035,3,0.002858776910955101
+2025,Mathematics,Neuroscience,264,1455,6,0.009680945835888815
+2025,"Economics, Econometrics and Finance",Neuroscience,428,1455,4,0.005068816977013071
+2025,Arts and Humanities,Neuroscience,139,1455,9,0.020012604498090742
+2025,"Economics, Econometrics and Finance",Nursing,428,266,1,0.0029637208617473566
+2025,Agricultural and Biological Sciences,Veterinary,1114,58,14,0.05507714798848417
+2025,Dentistry,Health Professions,117,875,18,0.05625686771261927
+2025,Materials Science,Nursing,1542,266,4,0.006245640551723184
+2025,Materials Science,Mathematics,1542,264,4,0.006269253643701651
+2025,Agricultural and Biological Sciences,Health Professions,1114,875,10,0.010128692304383166
+2025,"Business, Management and Accounting","Pharmacology, Toxicology and Pharmaceutics",299,183,2,0.008550053980401793
+2025,Health Professions,"Pharmacology, Toxicology and Pharmaceutics",875,183,2,0.004998048018664617
+2025,Immunology and Microbiology,Nursing,1064,266,6,0.011278195488721783
+2025,Dentistry,Engineering,117,2675,12,0.021449956806868706
+2025,Decision Sciences,Neuroscience,260,1455,3,0.004877565206877639
+2025,Dentistry,Materials Science,117,1542,2,0.004708633389520703
+2025,"Economics, Econometrics and Finance",Physics and Astronomy,428,1238,7,0.009616473367245866
+2025,Immunology and Microbiology,Veterinary,1064,58,6,0.02415274185412109
+2025,Chemical Engineering,Computer Science,178,1149,7,0.015478469812702277
+2025,Chemistry,Mathematics,757,264,4,0.008947672671882024
+2025,Chemical Engineering,Medicine,178,7840,2,0.0016930195112142032
+2025,Chemical Engineering,Veterinary,178,58,1,0.009841833239736857
+2025,Chemistry,Immunology and Microbiology,757,1064,8,0.008913971336794625
+2025,Environmental Science,"Pharmacology, Toxicology and Pharmaceutics",1800,183,3,0.005227083734893157
+2025,Earth and Planetary Sciences,Energy,602,371,5,0.010579978956696679
+2025,Arts and Humanities,Engineering,139,2675,2,0.003279900751704852
+2025,Chemical Engineering,Decision Sciences,178,260,1,0.004648398205540119
+2025,Chemical Engineering,Nursing,178,266,1,0.004595673647139712
+2025,Social Sciences,Veterinary,1191,58,1,0.0038047850148891925
+2025,"Pharmacology, Toxicology and Pharmaceutics",Veterinary,183,58,5,0.048532254091537226
+2025,"Pharmacology, Toxicology and Pharmaceutics",Social Sciences,183,1191,2,0.004283991200065641
+2025,"Biochemistry, Genetics and Molecular Biology",Chemical Engineering,4470,178,4,0.0044843162046337105
+2025,Agricultural and Biological Sciences,"Economics, Econometrics and Finance",1114,428,7,0.010137562858386117
+2025,Computer Science,"Pharmacology, Toxicology and Pharmaceutics",1149,183,6,0.013084757888953866
+2025,Nursing,Social Sciences,266,1191,6,0.010659934871905509
+2025,Engineering,Nursing,2675,266,5,0.005927441723494724
+2025,Dentistry,Earth and Planetary Sciences,117,602,3,0.011303946105083765
+2025,Computer Science,Dentistry,1149,117,5,0.013636944064103792
+2025,"Business, Management and Accounting",Nursing,299,266,2,0.007091752708001445
+2025,Immunology and Microbiology,Mathematics,1064,264,4,0.0075472235475287554
+2025,Physics and Astronomy,Psychology,1238,1035,4,0.0035336985157731994
+2025,Arts and Humanities,Health Professions,139,875,6,0.017204411585583643
+2025,Mathematics,"Pharmacology, Toxicology and Pharmaceutics",264,183,4,0.018198369681087054
+2025,"Business, Management and Accounting",Physics and Astronomy,299,1238,2,0.0032872601814165616
+2025,"Business, Management and Accounting",Neuroscience,299,1455,2,0.003032235338612706
+2025,Agricultural and Biological Sciences,Arts and Humanities,1114,139,3,0.007623795866239957
+2025,Arts and Humanities,"Business, Management and Accounting",139,299,3,0.014715609694871642
+2025,"Business, Management and Accounting",Earth and Planetary Sciences,299,602,1,0.002357035698634297
+2025,"Economics, Econometrics and Finance",Psychology,428,1035,5,0.007512386869470328
+2025,Earth and Planetary Sciences,Mathematics,602,264,3,0.007525251962195889
+2025,Arts and Humanities,Dentistry,139,117,2,0.015683018857651443
+2025,Health Professions,Veterinary,875,58,2,0.008877935232369467
+2025,Earth and Planetary Sciences,Veterinary,602,58,1,0.005351650676879976
+2025,Dentistry,"Economics, Econometrics and Finance",117,428,1,0.004468741001430969
+2025,Earth and Planetary Sciences,"Pharmacology, Toxicology and Pharmaceutics",602,183,1,0.0030128409773300755
+2025,Dentistry,Neuroscience,117,1455,1,0.00242368163717027
+2025,Arts and Humanities,Physics and Astronomy,139,1238,1,0.002410639550128427
+2025,Environmental Science,Mathematics,1800,264,3,0.00435194139889244
+2025,Neuroscience,Veterinary,1455,58,1,0.003442345890592266
+2025,Chemistry,Health Professions,757,875,2,0.002457412309622239
+2025,Agricultural and Biological Sciences,Computer Science,1114,1149,1,0.0008838883102605978
+2025,Dentistry,Social Sciences,117,1191,2,0.00535773444450752
+2025,Earth and Planetary Sciences,Health Professions,602,875,1,0.0013778366347726042
+2025,Arts and Humanities,Mathematics,139,264,1,0.005220241999323574
+2025,Agricultural and Biological Sciences,Chemical Engineering,1114,178,2,0.004491355162533227
+2025,Chemistry,Social Sciences,757,1191,1,0.0010531644223945858
+2025,Computer Science,Nursing,1149,266,1,0.0018088358936140729
+2025,Materials Science,Veterinary,1542,58,1,0.0033438271244333848
