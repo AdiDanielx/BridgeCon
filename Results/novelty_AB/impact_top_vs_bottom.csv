@@ -1,0 +1,2 @@
+top_pairs,bottom_pairs,n_papers_top,n_papers_bottom,cpr_mean_top,cpr_mean_bottom,mean_diff_top_minus_bottom,bootstrap_95ci_low,bootstrap_95ci_high
+50,50,34150,39119,3.208070805270864,3.4082157008103477,-0.20014489553948378,-0.38575307828030964,-0.019597148454482342
